@@ -1,0 +1,5870 @@
+[
+  {
+    "name": "with",
+    "level": 1,
+    "translation": "avec",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/with.mp3"
+  },
+  {
+    "name": "as",
+    "level": 1,
+    "translation": "comme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/as.mp3"
+  },
+  {
+    "name": "I",
+    "level": 1,
+    "translation": "je",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/I.mp3"
+  },
+  {
+    "name": "one",
+    "level": 1,
+    "translation": "un",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/one.mp3"
+  },
+  {
+    "name": "have",
+    "level": 1,
+    "translation": "avoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/have.mp3"
+  },
+  {
+    "name": "this",
+    "level": 1,
+    "translation": "ceci",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/this.mp3"
+  },
+  {
+    "name": "from",
+    "level": 1,
+    "translation": "de",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/from.mp3"
+  },
+  {
+    "name": "had",
+    "level": 1,
+    "translation": "avait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/had.mp3"
+  },
+  {
+    "name": "not",
+    "level": 1,
+    "translation": "ne...pas",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/not.mp3"
+  },
+  {
+    "name": "word",
+    "level": 1,
+    "translation": "mot",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/word.mp3"
+  },
+  {
+    "name": "but",
+    "level": 1,
+    "translation": "mais",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/but.mp3"
+  },
+  {
+    "name": "what",
+    "level": 1,
+    "translation": "quoi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/what.mp3"
+  },
+  {
+    "name": "some",
+    "level": 1,
+    "translation": "quelques",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/some.mp3"
+  },
+  {
+    "name": "we",
+    "level": 1,
+    "translation": "nous",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/we.mp3"
+  },
+  {
+    "name": "can",
+    "level": 1,
+    "translation": "pouvoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/can.mp3"
+  },
+  {
+    "name": "out",
+    "level": 1,
+    "translation": "dehors",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/out.mp3"
+  },
+  {
+    "name": "other",
+    "level": 1,
+    "translation": "autre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/other.mp3"
+  },
+  {
+    "name": "were",
+    "level": 1,
+    "translation": "étaient",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/were.mp3"
+  },
+  {
+    "name": "all",
+    "level": 1,
+    "translation": "tout",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/all.mp3"
+  },
+  {
+    "name": "there",
+    "level": 1,
+    "translation": "là",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/there.mp3"
+  },
+  {
+    "name": "when",
+    "level": 1,
+    "translation": "quand",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/when.mp3"
+  },
+  {
+    "name": "up",
+    "level": 1,
+    "translation": "haut",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/up.mp3"
+  },
+  {
+    "name": "use",
+    "level": 1,
+    "translation": "utiliser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/use.mp3"
+  },
+  {
+    "name": "your",
+    "level": 1,
+    "translation": "ton / votre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/your.mp3"
+  },
+  {
+    "name": "how",
+    "level": 1,
+    "translation": "comment",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/how.mp3"
+  },
+  {
+    "name": "said",
+    "level": 1,
+    "translation": "dit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/said.mp3"
+  },
+  {
+    "name": "each",
+    "level": 1,
+    "translation": "chaque",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/each.mp3"
+  },
+  {
+    "name": "she",
+    "level": 1,
+    "translation": "elle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/she.mp3"
+  },
+  {
+    "name": "which",
+    "level": 1,
+    "translation": "lequel / laquelle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/which.mp3"
+  },
+  {
+    "name": "do",
+    "level": 1,
+    "translation": "faire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/do.mp3"
+  },
+  {
+    "name": "their",
+    "level": 1,
+    "translation": "leur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/their.mp3"
+  },
+  {
+    "name": "time",
+    "level": 1,
+    "translation": "temps",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/time.mp3"
+  },
+  {
+    "name": "if",
+    "level": 1,
+    "translation": "si",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/if.mp3"
+  },
+  {
+    "name": "will",
+    "level": 1,
+    "translation": "va / volonté",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/will.mp3"
+  },
+  {
+    "name": "way",
+    "level": 1,
+    "translation": "chemin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/way.mp3"
+  },
+  {
+    "name": "about",
+    "level": 1,
+    "translation": "à propos de",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/about.mp3"
+  },
+  {
+    "name": "many",
+    "level": 1,
+    "translation": "beaucoup",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/many.mp3"
+  },
+  {
+    "name": "then",
+    "level": 1,
+    "translation": "alors",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/then.mp3"
+  },
+  {
+    "name": "them",
+    "level": 1,
+    "translation": "eux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/them.mp3"
+  },
+  {
+    "name": "write",
+    "level": 1,
+    "translation": "écrire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/write.mp3"
+  },
+  {
+    "name": "would",
+    "level": 1,
+    "translation": "voudrait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/would.mp3"
+  },
+  {
+    "name": "like",
+    "level": 1,
+    "translation": "aimer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/like.mp3"
+  },
+  {
+    "name": "so",
+    "level": 1,
+    "translation": "donc",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/so.mp3"
+  },
+  {
+    "name": "these",
+    "level": 1,
+    "translation": "ces",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/these.mp3"
+  },
+  {
+    "name": "her",
+    "level": 1,
+    "translation": "sa / elle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/her.mp3"
+  },
+  {
+    "name": "long",
+    "level": 1,
+    "translation": "long",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/long.mp3"
+  },
+  {
+    "name": "make",
+    "level": 1,
+    "translation": "faire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/make.mp3"
+  },
+  {
+    "name": "thing",
+    "level": 1,
+    "translation": "chose",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/thing.mp3"
+  },
+  {
+    "name": "see",
+    "level": 1,
+    "translation": "voir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/see.mp3"
+  },
+  {
+    "name": "him",
+    "level": 1,
+    "translation": "lui",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/him.mp3"
+  },
+  {
+    "name": "two",
+    "level": 1,
+    "translation": "deux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/two.mp3"
+  },
+  {
+    "name": "has",
+    "level": 1,
+    "translation": "a",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/has.mp3"
+  },
+  {
+    "name": "look",
+    "level": 1,
+    "translation": "regarder",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/look.mp3"
+  },
+  {
+    "name": "more",
+    "level": 1,
+    "translation": "plus",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/more.mp3"
+  },
+  {
+    "name": "day",
+    "level": 1,
+    "translation": "jour",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/day.mp3"
+  },
+  {
+    "name": "could",
+    "level": 1,
+    "translation": "pourrait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/could.mp3"
+  },
+  {
+    "name": "go",
+    "level": 1,
+    "translation": "aller",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/go.mp3"
+  },
+  {
+    "name": "come",
+    "level": 1,
+    "translation": "venir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/come.mp3"
+  },
+  {
+    "name": "did",
+    "level": 1,
+    "translation": "a fait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/did.mp3"
+  },
+  {
+    "name": "number",
+    "level": 1,
+    "translation": "nombre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/number.mp3"
+  },
+  {
+    "name": "sound",
+    "level": 1,
+    "translation": "son",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sound.mp3"
+  },
+  {
+    "name": "no",
+    "level": 1,
+    "translation": "non",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/no.mp3"
+  },
+  {
+    "name": "most",
+    "level": 1,
+    "translation": "la plupart",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/most.mp3"
+  },
+  {
+    "name": "people",
+    "level": 1,
+    "translation": "gens",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/people.mp3"
+  },
+  {
+    "name": "my",
+    "level": 1,
+    "translation": "mon",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/my.mp3"
+  },
+  {
+    "name": "over",
+    "level": 1,
+    "translation": "sur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/over.mp3"
+  },
+  {
+    "name": "know",
+    "level": 1,
+    "translation": "savoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/know.mp3"
+  },
+  {
+    "name": "water",
+    "level": 1,
+    "translation": "eau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/water.mp3"
+  },
+  {
+    "name": "than",
+    "level": 1,
+    "translation": "que",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/than.mp3"
+  },
+  {
+    "name": "call",
+    "level": 1,
+    "translation": "appeler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/call.mp3"
+  },
+  {
+    "name": "first",
+    "level": 1,
+    "translation": "premier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/first.mp3"
+  },
+  {
+    "name": "who",
+    "level": 1,
+    "translation": "qui",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/who.mp3"
+  },
+  {
+    "name": "may",
+    "level": 1,
+    "translation": "peut",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/may.mp3"
+  },
+  {
+    "name": "down",
+    "level": 1,
+    "translation": "bas",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/down.mp3"
+  },
+  {
+    "name": "side",
+    "level": 1,
+    "translation": "côté",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/side.mp3"
+  },
+  {
+    "name": "been",
+    "level": 1,
+    "translation": "été",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/been.mp3"
+  },
+  {
+    "name": "now",
+    "level": 1,
+    "translation": "maintenant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/now.mp3"
+  },
+  {
+    "name": "find",
+    "level": 1,
+    "translation": "trouver",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/find.mp3"
+  },
+  {
+    "name": "any",
+    "level": 1,
+    "translation": "n'importe quel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/any.mp3"
+  },
+  {
+    "name": "new",
+    "level": 1,
+    "translation": "nouveau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/new.mp3"
+  },
+  {
+    "name": "work",
+    "level": 1,
+    "translation": "travail",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/work.mp3"
+  },
+  {
+    "name": "part",
+    "level": 1,
+    "translation": "partie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/part.mp3"
+  },
+  {
+    "name": "take",
+    "level": 1,
+    "translation": "prendre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/take.mp3"
+  },
+  {
+    "name": "get",
+    "level": 1,
+    "translation": "obtenir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/get.mp3"
+  },
+  {
+    "name": "place",
+    "level": 1,
+    "translation": "endroit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/place.mp3"
+  },
+  {
+    "name": "made",
+    "level": 1,
+    "translation": "fait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/made.mp3"
+  },
+  {
+    "name": "live",
+    "level": 1,
+    "translation": "vivre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/live.mp3"
+  },
+  {
+    "name": "where",
+    "level": 1,
+    "translation": "où",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/where.mp3"
+  },
+  {
+    "name": "after",
+    "level": 1,
+    "translation": "après",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/after.mp3"
+  },
+  {
+    "name": "back",
+    "level": 1,
+    "translation": "retour",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/back.mp3"
+  },
+  {
+    "name": "little",
+    "level": 1,
+    "translation": "petit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/little.mp3"
+  },
+  {
+    "name": "only",
+    "level": 1,
+    "translation": "seulement",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/only.mp3"
+  },
+  {
+    "name": "round",
+    "level": 1,
+    "translation": "rond",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/round.mp3"
+  },
+  {
+    "name": "man",
+    "level": 1,
+    "translation": "homme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/man.mp3"
+  },
+  {
+    "name": "year",
+    "level": 1,
+    "translation": "an",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/year.mp3"
+  },
+  {
+    "name": "came",
+    "level": 1,
+    "translation": "est venu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/came.mp3"
+  },
+  {
+    "name": "show",
+    "level": 1,
+    "translation": "montrer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/show.mp3"
+  },
+  {
+    "name": "every",
+    "level": 1,
+    "translation": "chaque",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/every.mp3"
+  },
+  {
+    "name": "good",
+    "level": 2,
+    "translation": "bon",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/good.mp3"
+  },
+  {
+    "name": "me",
+    "level": 2,
+    "translation": "moi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/me.mp3"
+  },
+  {
+    "name": "give",
+    "level": 2,
+    "translation": "donner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/give.mp3"
+  },
+  {
+    "name": "our",
+    "level": 2,
+    "translation": "notre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/our.mp3"
+  },
+  {
+    "name": "under",
+    "level": 2,
+    "translation": "sous",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/under.mp3"
+  },
+  {
+    "name": "name",
+    "level": 2,
+    "translation": "nom",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/name.mp3"
+  },
+  {
+    "name": "very",
+    "level": 2,
+    "translation": "très",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/very.mp3"
+  },
+  {
+    "name": "through",
+    "level": 2,
+    "translation": "à travers",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/through.mp3"
+  },
+  {
+    "name": "just",
+    "level": 2,
+    "translation": "juste",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/just.mp3"
+  },
+  {
+    "name": "form",
+    "level": 2,
+    "translation": "forme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/form.mp3"
+  },
+  {
+    "name": "sentence",
+    "level": 2,
+    "translation": "phrase",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sentence.mp3"
+  },
+  {
+    "name": "great",
+    "level": 2,
+    "translation": "super",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/great.mp3"
+  },
+  {
+    "name": "think",
+    "level": 2,
+    "translation": "penser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/think.mp3"
+  },
+  {
+    "name": "say",
+    "level": 2,
+    "translation": "dire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/say.mp3"
+  },
+  {
+    "name": "help",
+    "level": 2,
+    "translation": "aider",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/help.mp3"
+  },
+  {
+    "name": "low",
+    "level": 2,
+    "translation": "bas",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/low.mp3"
+  },
+  {
+    "name": "line",
+    "level": 2,
+    "translation": "ligne",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/line.mp3"
+  },
+  {
+    "name": "differ",
+    "level": 2,
+    "translation": "différer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/differ.mp3"
+  },
+  {
+    "name": "turn",
+    "level": 2,
+    "translation": "tourner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/turn.mp3"
+  },
+  {
+    "name": "cause",
+    "level": 2,
+    "translation": "causer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cause.mp3"
+  },
+  {
+    "name": "much",
+    "level": 2,
+    "translation": "beaucoup",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/much.mp3"
+  },
+  {
+    "name": "mean",
+    "level": 2,
+    "translation": "signifier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mean.mp3"
+  },
+  {
+    "name": "before",
+    "level": 2,
+    "translation": "avant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/before.mp3"
+  },
+  {
+    "name": "move",
+    "level": 2,
+    "translation": "bouger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/move.mp3"
+  },
+  {
+    "name": "right",
+    "level": 2,
+    "translation": "droit / correct",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/right.mp3"
+  },
+  {
+    "name": "boy",
+    "level": 2,
+    "translation": "garçon",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/boy.mp3"
+  },
+  {
+    "name": "old",
+    "level": 2,
+    "translation": "vieux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/old.mp3"
+  },
+  {
+    "name": "too",
+    "level": 2,
+    "translation": "aussi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/too.mp3"
+  },
+  {
+    "name": "same",
+    "level": 2,
+    "translation": "même",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/same.mp3"
+  },
+  {
+    "name": "tell",
+    "level": 2,
+    "translation": "dire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tell.mp3"
+  },
+  {
+    "name": "does",
+    "level": 2,
+    "translation": "fait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/does.mp3"
+  },
+  {
+    "name": "set",
+    "level": 2,
+    "translation": "mettre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/set.mp3"
+  },
+  {
+    "name": "three",
+    "level": 2,
+    "translation": "trois",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/three.mp3"
+  },
+  {
+    "name": "want",
+    "level": 2,
+    "translation": "vouloir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/want.mp3"
+  },
+  {
+    "name": "air",
+    "level": 2,
+    "translation": "air",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/air.mp3"
+  },
+  {
+    "name": "well",
+    "level": 2,
+    "translation": "bien",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/well.mp3"
+  },
+  {
+    "name": "also",
+    "level": 2,
+    "translation": "aussi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/also.mp3"
+  },
+  {
+    "name": "play",
+    "level": 2,
+    "translation": "jouer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/play.mp3"
+  },
+  {
+    "name": "small",
+    "level": 2,
+    "translation": "petit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/small.mp3"
+  },
+  {
+    "name": "end",
+    "level": 2,
+    "translation": "fin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/end.mp3"
+  },
+  {
+    "name": "put",
+    "level": 2,
+    "translation": "mettre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/put.mp3"
+  },
+  {
+    "name": "home",
+    "level": 2,
+    "translation": "maison",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/home.mp3"
+  },
+  {
+    "name": "read",
+    "level": 2,
+    "translation": "lire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/read.mp3"
+  },
+  {
+    "name": "hand",
+    "level": 2,
+    "translation": "main",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hand.mp3"
+  },
+  {
+    "name": "port",
+    "level": 2,
+    "translation": "port",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/port.mp3"
+  },
+  {
+    "name": "large",
+    "level": 2,
+    "translation": "grand",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/large.mp3"
+  },
+  {
+    "name": "spell",
+    "level": 2,
+    "translation": "épeler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/spell.mp3"
+  },
+  {
+    "name": "add",
+    "level": 2,
+    "translation": "ajouter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/add.mp3"
+  },
+  {
+    "name": "even",
+    "level": 2,
+    "translation": "même / pair",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/even.mp3"
+  },
+  {
+    "name": "land",
+    "level": 2,
+    "translation": "terre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/land.mp3"
+  },
+  {
+    "name": "here",
+    "level": 2,
+    "translation": "ici",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/here.mp3"
+  },
+  {
+    "name": "must",
+    "level": 2,
+    "translation": "devoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/must.mp3"
+  },
+  {
+    "name": "big",
+    "level": 2,
+    "translation": "grand",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/big.mp3"
+  },
+  {
+    "name": "high",
+    "level": 2,
+    "translation": "haut",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/high.mp3"
+  },
+  {
+    "name": "such",
+    "level": 2,
+    "translation": "tel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/such.mp3"
+  },
+  {
+    "name": "follow",
+    "level": 2,
+    "translation": "suivre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/follow.mp3"
+  },
+  {
+    "name": "act",
+    "level": 2,
+    "translation": "agir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/act.mp3"
+  },
+  {
+    "name": "why",
+    "level": 2,
+    "translation": "pourquoi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/why.mp3"
+  },
+  {
+    "name": "ask",
+    "level": 2,
+    "translation": "demander",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ask.mp3"
+  },
+  {
+    "name": "men",
+    "level": 2,
+    "translation": "hommes",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/men.mp3"
+  },
+  {
+    "name": "change",
+    "level": 2,
+    "translation": "changer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/change.mp3"
+  },
+  {
+    "name": "went",
+    "level": 2,
+    "translation": "est allé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/went.mp3"
+  },
+  {
+    "name": "light",
+    "level": 2,
+    "translation": "lumière",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/light.mp3"
+  },
+  {
+    "name": "kind",
+    "level": 2,
+    "translation": "gentil / genre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/kind.mp3"
+  },
+  {
+    "name": "off",
+    "level": 2,
+    "translation": "éteint / loin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/off.mp3"
+  },
+  {
+    "name": "need",
+    "level": 2,
+    "translation": "avoir besoin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/need.mp3"
+  },
+  {
+    "name": "house",
+    "level": 2,
+    "translation": "maison",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/house.mp3"
+  },
+  {
+    "name": "picture",
+    "level": 2,
+    "translation": "image",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/picture.mp3"
+  },
+  {
+    "name": "try",
+    "level": 2,
+    "translation": "essayer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/try.mp3"
+  },
+  {
+    "name": "us",
+    "level": 2,
+    "translation": "nous",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/us.mp3"
+  },
+  {
+    "name": "again",
+    "level": 2,
+    "translation": "encore",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/again.mp3"
+  },
+  {
+    "name": "animal",
+    "level": 2,
+    "translation": "animal",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/animal.mp3"
+  },
+  {
+    "name": "point",
+    "level": 2,
+    "translation": "point",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/point.mp3"
+  },
+  {
+    "name": "mother",
+    "level": 2,
+    "translation": "mère",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mother.mp3"
+  },
+  {
+    "name": "world",
+    "level": 2,
+    "translation": "monde",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/world.mp3"
+  },
+  {
+    "name": "near",
+    "level": 2,
+    "translation": "près",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/near.mp3"
+  },
+  {
+    "name": "build",
+    "level": 2,
+    "translation": "construire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/build.mp3"
+  },
+  {
+    "name": "self",
+    "level": 2,
+    "translation": "soi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/self.mp3"
+  },
+  {
+    "name": "earth",
+    "level": 2,
+    "translation": "terre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/earth.mp3"
+  },
+  {
+    "name": "father",
+    "level": 2,
+    "translation": "père",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/father.mp3"
+  },
+  {
+    "name": "head",
+    "level": 2,
+    "translation": "tête",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/head.mp3"
+  },
+  {
+    "name": "stand",
+    "level": 2,
+    "translation": "se tenir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stand.mp3"
+  },
+  {
+    "name": "own",
+    "level": 2,
+    "translation": "propre / posséder",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/own.mp3"
+  },
+  {
+    "name": "page",
+    "level": 2,
+    "translation": "page",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/page.mp3"
+  },
+  {
+    "name": "should",
+    "level": 2,
+    "translation": "devrait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/should.mp3"
+  },
+  {
+    "name": "country",
+    "level": 2,
+    "translation": "pays",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/country.mp3"
+  },
+  {
+    "name": "found",
+    "level": 2,
+    "translation": "trouvé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/found.mp3"
+  },
+  {
+    "name": "answer",
+    "level": 2,
+    "translation": "réponse",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/answer.mp3"
+  },
+  {
+    "name": "school",
+    "level": 2,
+    "translation": "école",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/school.mp3"
+  },
+  {
+    "name": "grow",
+    "level": 2,
+    "translation": "grandir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/grow.mp3"
+  },
+  {
+    "name": "study",
+    "level": 2,
+    "translation": "étudier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/study.mp3"
+  },
+  {
+    "name": "still",
+    "level": 2,
+    "translation": "encore",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/still.mp3"
+  },
+  {
+    "name": "learn",
+    "level": 2,
+    "translation": "apprendre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/learn.mp3"
+  },
+  {
+    "name": "plant",
+    "level": 2,
+    "translation": "plante",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/plant.mp3"
+  },
+  {
+    "name": "cover",
+    "level": 2,
+    "translation": "couvrir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cover.mp3"
+  },
+  {
+    "name": "food",
+    "level": 2,
+    "translation": "nourriture",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/food.mp3"
+  },
+  {
+    "name": "sun",
+    "level": 2,
+    "translation": "soleil",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sun.mp3"
+  },
+  {
+    "name": "four",
+    "level": 2,
+    "translation": "quatre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/four.mp3"
+  },
+  {
+    "name": "between",
+    "level": 3,
+    "translation": "entre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/between.mp3"
+  },
+  {
+    "name": "state",
+    "level": 3,
+    "translation": "état",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/state.mp3"
+  },
+  {
+    "name": "keep",
+    "level": 3,
+    "translation": "garder",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/keep.mp3"
+  },
+  {
+    "name": "eye",
+    "level": 3,
+    "translation": "œil",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/eye.mp3"
+  },
+  {
+    "name": "never",
+    "level": 3,
+    "translation": "jamais",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/never.mp3"
+  },
+  {
+    "name": "last",
+    "level": 3,
+    "translation": "dernier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/last.mp3"
+  },
+  {
+    "name": "let",
+    "level": 3,
+    "translation": "laisser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/let.mp3"
+  },
+  {
+    "name": "thought",
+    "level": 3,
+    "translation": "pensée",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/thought.mp3"
+  },
+  {
+    "name": "city",
+    "level": 3,
+    "translation": "ville",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/city.mp3"
+  },
+  {
+    "name": "tree",
+    "level": 3,
+    "translation": "arbre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tree.mp3"
+  },
+  {
+    "name": "cross",
+    "level": 3,
+    "translation": "croix",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cross.mp3"
+  },
+  {
+    "name": "farm",
+    "level": 3,
+    "translation": "ferme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/farm.mp3"
+  },
+  {
+    "name": "hard",
+    "level": 3,
+    "translation": "dur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hard.mp3"
+  },
+  {
+    "name": "start",
+    "level": 3,
+    "translation": "commencer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/start.mp3"
+  },
+  {
+    "name": "might",
+    "level": 3,
+    "translation": "pourrait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/might.mp3"
+  },
+  {
+    "name": "story",
+    "level": 3,
+    "translation": "histoire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/story.mp3"
+  },
+  {
+    "name": "saw",
+    "level": 3,
+    "translation": "vu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/saw.mp3"
+  },
+  {
+    "name": "far",
+    "level": 3,
+    "translation": "loin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/far.mp3"
+  },
+  {
+    "name": "sea",
+    "level": 3,
+    "translation": "mer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sea.mp3"
+  },
+  {
+    "name": "draw",
+    "level": 3,
+    "translation": "dessiner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/draw.mp3"
+  },
+  {
+    "name": "left",
+    "level": 3,
+    "translation": "gauche",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/left.mp3"
+  },
+  {
+    "name": "late",
+    "level": 3,
+    "translation": "tard",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/late.mp3"
+  },
+  {
+    "name": "run",
+    "level": 3,
+    "translation": "courir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/run.mp3"
+  },
+  {
+    "name": "don't",
+    "level": 3,
+    "translation": "ne...pas",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/don't.mp3"
+  },
+  {
+    "name": "while",
+    "level": 3,
+    "translation": "pendant que",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/while.mp3"
+  },
+  {
+    "name": "press",
+    "level": 3,
+    "translation": "appuyer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/press.mp3"
+  },
+  {
+    "name": "close",
+    "level": 3,
+    "translation": "fermer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/close.mp3"
+  },
+  {
+    "name": "night",
+    "level": 3,
+    "translation": "nuit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/night.mp3"
+  },
+  {
+    "name": "real",
+    "level": 3,
+    "translation": "réel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/real.mp3"
+  },
+  {
+    "name": "life",
+    "level": 3,
+    "translation": "vie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/life.mp3"
+  },
+  {
+    "name": "few",
+    "level": 3,
+    "translation": "peu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/few.mp3"
+  },
+  {
+    "name": "north",
+    "level": 3,
+    "translation": "nord",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/north.mp3"
+  },
+  {
+    "name": "open",
+    "level": 3,
+    "translation": "ouvrir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/open.mp3"
+  },
+  {
+    "name": "seem",
+    "level": 3,
+    "translation": "sembler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/seem.mp3"
+  },
+  {
+    "name": "together",
+    "level": 3,
+    "translation": "ensemble",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/together.mp3"
+  },
+  {
+    "name": "next",
+    "level": 3,
+    "translation": "suivant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/next.mp3"
+  },
+  {
+    "name": "white",
+    "level": 3,
+    "translation": "blanc",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/white.mp3"
+  },
+  {
+    "name": "children",
+    "level": 3,
+    "translation": "enfants",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/children.mp3"
+  },
+  {
+    "name": "begin",
+    "level": 3,
+    "translation": "commencer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/begin.mp3"
+  },
+  {
+    "name": "got",
+    "level": 3,
+    "translation": "obtenu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/got.mp3"
+  },
+  {
+    "name": "walk",
+    "level": 3,
+    "translation": "marcher",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/walk.mp3"
+  },
+  {
+    "name": "example",
+    "level": 3,
+    "translation": "exemple",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/example.mp3"
+  },
+  {
+    "name": "ease",
+    "level": 3,
+    "translation": "facilité",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ease.mp3"
+  },
+  {
+    "name": "paper",
+    "level": 3,
+    "translation": "papier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/paper.mp3"
+  },
+  {
+    "name": "group",
+    "level": 3,
+    "translation": "groupe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/group.mp3"
+  },
+  {
+    "name": "always",
+    "level": 3,
+    "translation": "toujours",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/always.mp3"
+  },
+  {
+    "name": "music",
+    "level": 3,
+    "translation": "musique",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/music.mp3"
+  },
+  {
+    "name": "those",
+    "level": 3,
+    "translation": "ceux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/those.mp3"
+  },
+  {
+    "name": "both",
+    "level": 3,
+    "translation": "les deux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/both.mp3"
+  },
+  {
+    "name": "mark",
+    "level": 3,
+    "translation": "marque",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mark.mp3"
+  },
+  {
+    "name": "often",
+    "level": 3,
+    "translation": "souvent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/often.mp3"
+  },
+  {
+    "name": "letter",
+    "level": 3,
+    "translation": "lettre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/letter.mp3"
+  },
+  {
+    "name": "until",
+    "level": 3,
+    "translation": "jusqu'à",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/until.mp3"
+  },
+  {
+    "name": "mile",
+    "level": 3,
+    "translation": "mile",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mile.mp3"
+  },
+  {
+    "name": "river",
+    "level": 3,
+    "translation": "rivière",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/river.mp3"
+  },
+  {
+    "name": "car",
+    "level": 3,
+    "translation": "voiture",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/car.mp3"
+  },
+  {
+    "name": "feet",
+    "level": 3,
+    "translation": "pieds",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/feet.mp3"
+  },
+  {
+    "name": "care",
+    "level": 3,
+    "translation": "prendre soin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/care.mp3"
+  },
+  {
+    "name": "second",
+    "level": 3,
+    "translation": "seconde",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/second.mp3"
+  },
+  {
+    "name": "book",
+    "level": 3,
+    "translation": "livre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/book.mp3"
+  },
+  {
+    "name": "carry",
+    "level": 3,
+    "translation": "porter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/carry.mp3"
+  },
+  {
+    "name": "took",
+    "level": 3,
+    "translation": "pris",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/took.mp3"
+  },
+  {
+    "name": "science",
+    "level": 3,
+    "translation": "science",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/science.mp3"
+  },
+  {
+    "name": "eat",
+    "level": 3,
+    "translation": "manger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/eat.mp3"
+  },
+  {
+    "name": "room",
+    "level": 3,
+    "translation": "chambre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/room.mp3"
+  },
+  {
+    "name": "friend",
+    "level": 3,
+    "translation": "ami",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/friend.mp3"
+  },
+  {
+    "name": "began",
+    "level": 3,
+    "translation": "a commencé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/began.mp3"
+  },
+  {
+    "name": "idea",
+    "level": 3,
+    "translation": "idée",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/idea.mp3"
+  },
+  {
+    "name": "fish",
+    "level": 3,
+    "translation": "poisson",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fish.mp3"
+  },
+  {
+    "name": "mountain",
+    "level": 3,
+    "translation": "montagne",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mountain.mp3"
+  },
+  {
+    "name": "stop",
+    "level": 3,
+    "translation": "arrêter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stop.mp3"
+  },
+  {
+    "name": "once",
+    "level": 3,
+    "translation": "une fois",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/once.mp3"
+  },
+  {
+    "name": "base",
+    "level": 3,
+    "translation": "base",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/base.mp3"
+  },
+  {
+    "name": "hear",
+    "level": 3,
+    "translation": "entendre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hear.mp3"
+  },
+  {
+    "name": "horse",
+    "level": 3,
+    "translation": "cheval",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/horse.mp3"
+  },
+  {
+    "name": "cut",
+    "level": 3,
+    "translation": "couper",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cut.mp3"
+  },
+  {
+    "name": "sure",
+    "level": 3,
+    "translation": "sûr",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sure.mp3"
+  },
+  {
+    "name": "watch",
+    "level": 3,
+    "translation": "regarder",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/watch.mp3"
+  },
+  {
+    "name": "color",
+    "level": 3,
+    "translation": "couleur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/color.mp3"
+  },
+  {
+    "name": "face",
+    "level": 3,
+    "translation": "visage",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/face.mp3"
+  },
+  {
+    "name": "wood",
+    "level": 3,
+    "translation": "bois",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wood.mp3"
+  },
+  {
+    "name": "main",
+    "level": 3,
+    "translation": "principal",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/main.mp3"
+  },
+  {
+    "name": "enough",
+    "level": 3,
+    "translation": "assez",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/enough.mp3"
+  },
+  {
+    "name": "plain",
+    "level": 3,
+    "translation": "simple",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/plain.mp3"
+  },
+  {
+    "name": "girl",
+    "level": 3,
+    "translation": "fille",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/girl.mp3"
+  },
+  {
+    "name": "usual",
+    "level": 3,
+    "translation": "habituel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/usual.mp3"
+  },
+  {
+    "name": "young",
+    "level": 3,
+    "translation": "jeune",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/young.mp3"
+  },
+  {
+    "name": "ready",
+    "level": 3,
+    "translation": "prêt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ready.mp3"
+  },
+  {
+    "name": "above",
+    "level": 3,
+    "translation": "au-dessus",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/above.mp3"
+  },
+  {
+    "name": "ever",
+    "level": 3,
+    "translation": "jamais",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ever.mp3"
+  },
+  {
+    "name": "red",
+    "level": 3,
+    "translation": "rouge",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/red.mp3"
+  },
+  {
+    "name": "list",
+    "level": 3,
+    "translation": "liste",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/list.mp3"
+  },
+  {
+    "name": "though",
+    "level": 3,
+    "translation": "bien que",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/though.mp3"
+  },
+  {
+    "name": "feel",
+    "level": 3,
+    "translation": "ressentir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/feel.mp3"
+  },
+  {
+    "name": "talk",
+    "level": 3,
+    "translation": "parler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/talk.mp3"
+  },
+  {
+    "name": "bird",
+    "level": 3,
+    "translation": "oiseau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bird.mp3"
+  },
+  {
+    "name": "soon",
+    "level": 3,
+    "translation": "bientôt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/soon.mp3"
+  },
+  {
+    "name": "body",
+    "level": 3,
+    "translation": "corps",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/body.mp3"
+  },
+  {
+    "name": "dog",
+    "level": 4,
+    "translation": "chien",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dog.mp3"
+  },
+  {
+    "name": "family",
+    "level": 4,
+    "translation": "famille",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/family.mp3"
+  },
+  {
+    "name": "direct",
+    "level": 4,
+    "translation": "direct",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/direct.mp3"
+  },
+  {
+    "name": "pose",
+    "level": 4,
+    "translation": "poser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pose.mp3"
+  },
+  {
+    "name": "leave",
+    "level": 4,
+    "translation": "laisser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/leave.mp3"
+  },
+  {
+    "name": "song",
+    "level": 4,
+    "translation": "chanson",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/song.mp3"
+  },
+  {
+    "name": "measure",
+    "level": 4,
+    "translation": "mesurer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/measure.mp3"
+  },
+  {
+    "name": "door",
+    "level": 4,
+    "translation": "porte",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/door.mp3"
+  },
+  {
+    "name": "product",
+    "level": 4,
+    "translation": "produit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/product.mp3"
+  },
+  {
+    "name": "black",
+    "level": 4,
+    "translation": "noir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/black.mp3"
+  },
+  {
+    "name": "short",
+    "level": 4,
+    "translation": "court",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/short.mp3"
+  },
+  {
+    "name": "numeral",
+    "level": 4,
+    "translation": "numéral",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/numeral.mp3"
+  },
+  {
+    "name": "class",
+    "level": 4,
+    "translation": "classe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/class.mp3"
+  },
+  {
+    "name": "wind",
+    "level": 4,
+    "translation": "vent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wind.mp3"
+  },
+  {
+    "name": "question",
+    "level": 4,
+    "translation": "question",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/question.mp3"
+  },
+  {
+    "name": "happen",
+    "level": 4,
+    "translation": "arriver",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/happen.mp3"
+  },
+  {
+    "name": "complete",
+    "level": 4,
+    "translation": "complet",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/complete.mp3"
+  },
+  {
+    "name": "ship",
+    "level": 4,
+    "translation": "navire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ship.mp3"
+  },
+  {
+    "name": "area",
+    "level": 4,
+    "translation": "zone",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/area.mp3"
+  },
+  {
+    "name": "half",
+    "level": 4,
+    "translation": "moitié",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/half.mp3"
+  },
+  {
+    "name": "rock",
+    "level": 4,
+    "translation": "rocher",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rock.mp3"
+  },
+  {
+    "name": "order",
+    "level": 4,
+    "translation": "ordre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/order.mp3"
+  },
+  {
+    "name": "fire",
+    "level": 4,
+    "translation": "feu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fire.mp3"
+  },
+  {
+    "name": "south",
+    "level": 4,
+    "translation": "sud",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/south.mp3"
+  },
+  {
+    "name": "problem",
+    "level": 4,
+    "translation": "problème",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/problem.mp3"
+  },
+  {
+    "name": "piece",
+    "level": 4,
+    "translation": "morceau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/piece.mp3"
+  },
+  {
+    "name": "told",
+    "level": 4,
+    "translation": "dit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/told.mp3"
+  },
+  {
+    "name": "knew",
+    "level": 4,
+    "translation": "savait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/knew.mp3"
+  },
+  {
+    "name": "pass",
+    "level": 4,
+    "translation": "passer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pass.mp3"
+  },
+  {
+    "name": "since",
+    "level": 4,
+    "translation": "depuis",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/since.mp3"
+  },
+  {
+    "name": "top",
+    "level": 4,
+    "translation": "haut",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/top.mp3"
+  },
+  {
+    "name": "whole",
+    "level": 4,
+    "translation": "entier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/whole.mp3"
+  },
+  {
+    "name": "king",
+    "level": 4,
+    "translation": "roi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/king.mp3"
+  },
+  {
+    "name": "space",
+    "level": 4,
+    "translation": "espace",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/space.mp3"
+  },
+  {
+    "name": "heard",
+    "level": 4,
+    "translation": "entendu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/heard.mp3"
+  },
+  {
+    "name": "best",
+    "level": 4,
+    "translation": "meilleur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/best.mp3"
+  },
+  {
+    "name": "hour",
+    "level": 4,
+    "translation": "heure",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hour.mp3"
+  },
+  {
+    "name": "better",
+    "level": 4,
+    "translation": "mieux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/better.mp3"
+  },
+  {
+    "name": "true",
+    "level": 4,
+    "translation": "vrai",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/true.mp3"
+  },
+  {
+    "name": "during",
+    "level": 4,
+    "translation": "pendant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/during.mp3"
+  },
+  {
+    "name": "hundred",
+    "level": 4,
+    "translation": "cent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hundred.mp3"
+  },
+  {
+    "name": "five",
+    "level": 4,
+    "translation": "cinq",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/five.mp3"
+  },
+  {
+    "name": "remember",
+    "level": 4,
+    "translation": "se souvenir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/remember.mp3"
+  },
+  {
+    "name": "step",
+    "level": 4,
+    "translation": "étape",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/step.mp3"
+  },
+  {
+    "name": "early",
+    "level": 4,
+    "translation": "tôt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/early.mp3"
+  },
+  {
+    "name": "hold",
+    "level": 4,
+    "translation": "tenir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hold.mp3"
+  },
+  {
+    "name": "west",
+    "level": 4,
+    "translation": "ouest",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/west.mp3"
+  },
+  {
+    "name": "ground",
+    "level": 4,
+    "translation": "sol",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ground.mp3"
+  },
+  {
+    "name": "interest",
+    "level": 4,
+    "translation": "intérêt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/interest.mp3"
+  },
+  {
+    "name": "reach",
+    "level": 4,
+    "translation": "atteindre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/reach.mp3"
+  },
+  {
+    "name": "fast",
+    "level": 4,
+    "translation": "rapide",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fast.mp3"
+  },
+  {
+    "name": "verb",
+    "level": 4,
+    "translation": "verbe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/verb.mp3"
+  },
+  {
+    "name": "sing",
+    "level": 4,
+    "translation": "chanter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sing.mp3"
+  },
+  {
+    "name": "listen",
+    "level": 4,
+    "translation": "écouter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/listen.mp3"
+  },
+  {
+    "name": "six",
+    "level": 4,
+    "translation": "six",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/six.mp3"
+  },
+  {
+    "name": "table",
+    "level": 4,
+    "translation": "table",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/table.mp3"
+  },
+  {
+    "name": "travel",
+    "level": 4,
+    "translation": "voyager",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/travel.mp3"
+  },
+  {
+    "name": "less",
+    "level": 4,
+    "translation": "moins",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/less.mp3"
+  },
+  {
+    "name": "morning",
+    "level": 4,
+    "translation": "matin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/morning.mp3"
+  },
+  {
+    "name": "ten",
+    "level": 4,
+    "translation": "dix",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ten.mp3"
+  },
+  {
+    "name": "simple",
+    "level": 4,
+    "translation": "simple",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/simple.mp3"
+  },
+  {
+    "name": "several",
+    "level": 4,
+    "translation": "plusieurs",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/several.mp3"
+  },
+  {
+    "name": "vowel",
+    "level": 4,
+    "translation": "voyelle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/vowel.mp3"
+  },
+  {
+    "name": "toward",
+    "level": 4,
+    "translation": "vers",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/toward.mp3"
+  },
+  {
+    "name": "war",
+    "level": 4,
+    "translation": "guerre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/war.mp3"
+  },
+  {
+    "name": "lay",
+    "level": 4,
+    "translation": "poser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lay.mp3"
+  },
+  {
+    "name": "against",
+    "level": 4,
+    "translation": "contre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/against.mp3"
+  },
+  {
+    "name": "pattern",
+    "level": 4,
+    "translation": "motif",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pattern.mp3"
+  },
+  {
+    "name": "slow",
+    "level": 4,
+    "translation": "lent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/slow.mp3"
+  },
+  {
+    "name": "center",
+    "level": 4,
+    "translation": "centre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/center.mp3"
+  },
+  {
+    "name": "love",
+    "level": 4,
+    "translation": "aimer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/love.mp3"
+  },
+  {
+    "name": "person",
+    "level": 4,
+    "translation": "personne",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/person.mp3"
+  },
+  {
+    "name": "money",
+    "level": 4,
+    "translation": "argent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/money.mp3"
+  },
+  {
+    "name": "serve",
+    "level": 4,
+    "translation": "servir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/serve.mp3"
+  },
+  {
+    "name": "appear",
+    "level": 4,
+    "translation": "apparaître",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/appear.mp3"
+  },
+  {
+    "name": "road",
+    "level": 4,
+    "translation": "route",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/road.mp3"
+  },
+  {
+    "name": "map",
+    "level": 4,
+    "translation": "carte",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/map.mp3"
+  },
+  {
+    "name": "rain",
+    "level": 4,
+    "translation": "pluie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rain.mp3"
+  },
+  {
+    "name": "rule",
+    "level": 4,
+    "translation": "règle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rule.mp3"
+  },
+  {
+    "name": "govern",
+    "level": 4,
+    "translation": "gouverner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/govern.mp3"
+  },
+  {
+    "name": "pull",
+    "level": 4,
+    "translation": "tirer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pull.mp3"
+  },
+  {
+    "name": "cold",
+    "level": 4,
+    "translation": "froid",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cold.mp3"
+  },
+  {
+    "name": "notice",
+    "level": 4,
+    "translation": "remarquer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/notice.mp3"
+  },
+  {
+    "name": "voice",
+    "level": 4,
+    "translation": "voix",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/voice.mp3"
+  },
+  {
+    "name": "unit",
+    "level": 4,
+    "translation": "unité",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/unit.mp3"
+  },
+  {
+    "name": "power",
+    "level": 4,
+    "translation": "pouvoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/power.mp3"
+  },
+  {
+    "name": "town",
+    "level": 4,
+    "translation": "ville",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/town.mp3"
+  },
+  {
+    "name": "fine",
+    "level": 4,
+    "translation": "bien",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fine.mp3"
+  },
+  {
+    "name": "certain",
+    "level": 4,
+    "translation": "certain",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/certain.mp3"
+  },
+  {
+    "name": "fly",
+    "level": 4,
+    "translation": "voler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fly.mp3"
+  },
+  {
+    "name": "fall",
+    "level": 4,
+    "translation": "tomber",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fall.mp3"
+  },
+  {
+    "name": "lead",
+    "level": 4,
+    "translation": "mener",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lead.mp3"
+  },
+  {
+    "name": "cry",
+    "level": 4,
+    "translation": "pleurer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cry.mp3"
+  },
+  {
+    "name": "dark",
+    "level": 4,
+    "translation": "sombre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dark.mp3"
+  },
+  {
+    "name": "machine",
+    "level": 4,
+    "translation": "machine",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/machine.mp3"
+  },
+  {
+    "name": "note",
+    "level": 4,
+    "translation": "note",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/note.mp3"
+  },
+  {
+    "name": "wait",
+    "level": 4,
+    "translation": "attendre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wait.mp3"
+  },
+  {
+    "name": "plan",
+    "level": 4,
+    "translation": "plan",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/plan.mp3"
+  },
+  {
+    "name": "figure",
+    "level": 5,
+    "translation": "figure",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/figure.mp3"
+  },
+  {
+    "name": "star",
+    "level": 5,
+    "translation": "étoile",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/star.mp3"
+  },
+  {
+    "name": "box",
+    "level": 5,
+    "translation": "boîte",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/box.mp3"
+  },
+  {
+    "name": "noun",
+    "level": 5,
+    "translation": "nom",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/noun.mp3"
+  },
+  {
+    "name": "field",
+    "level": 5,
+    "translation": "champ",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/field.mp3"
+  },
+  {
+    "name": "rest",
+    "level": 5,
+    "translation": "repos",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rest.mp3"
+  },
+  {
+    "name": "correct",
+    "level": 5,
+    "translation": "correct",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/correct.mp3"
+  },
+  {
+    "name": "able",
+    "level": 5,
+    "translation": "capable",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/able.mp3"
+  },
+  {
+    "name": "pound",
+    "level": 5,
+    "translation": "livre (unité monétaire)",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pound.mp3"
+  },
+  {
+    "name": "done",
+    "level": 5,
+    "translation": "fait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/done.mp3"
+  },
+  {
+    "name": "beauty",
+    "level": 5,
+    "translation": "beauté",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/beauty.mp3"
+  },
+  {
+    "name": "drive",
+    "level": 5,
+    "translation": "conduire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/drive.mp3"
+  },
+  {
+    "name": "stood",
+    "level": 5,
+    "translation": "est resté",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stood.mp3"
+  },
+  {
+    "name": "contain",
+    "level": 5,
+    "translation": "contenir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/contain.mp3"
+  },
+  {
+    "name": "front",
+    "level": 5,
+    "translation": "devant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/front.mp3"
+  },
+  {
+    "name": "teach",
+    "level": 5,
+    "translation": "enseigner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/teach.mp3"
+  },
+  {
+    "name": "week",
+    "level": 5,
+    "translation": "semaine",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/week.mp3"
+  },
+  {
+    "name": "final",
+    "level": 5,
+    "translation": "final",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/final.mp3"
+  },
+  {
+    "name": "gave",
+    "level": 5,
+    "translation": "a donné",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gave.mp3"
+  },
+  {
+    "name": "green",
+    "level": 5,
+    "translation": "vert",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/green.mp3"
+  },
+  {
+    "name": "oh",
+    "level": 5,
+    "translation": "oh",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/oh.mp3"
+  },
+  {
+    "name": "quick",
+    "level": 5,
+    "translation": "rapide",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/quick.mp3"
+  },
+  {
+    "name": "develop",
+    "level": 5,
+    "translation": "développer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/develop.mp3"
+  },
+  {
+    "name": "ocean",
+    "level": 5,
+    "translation": "océan",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ocean.mp3"
+  },
+  {
+    "name": "warm",
+    "level": 5,
+    "translation": "chaud",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/warm.mp3"
+  },
+  {
+    "name": "free",
+    "level": 5,
+    "translation": "gratuit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/free.mp3"
+  },
+  {
+    "name": "minute",
+    "level": 5,
+    "translation": "minute",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/minute.mp3"
+  },
+  {
+    "name": "strong",
+    "level": 5,
+    "translation": "fort",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/strong.mp3"
+  },
+  {
+    "name": "special",
+    "level": 5,
+    "translation": "spécial",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/special.mp3"
+  },
+  {
+    "name": "mind",
+    "level": 5,
+    "translation": "esprit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mind.mp3"
+  },
+  {
+    "name": "behind",
+    "level": 5,
+    "translation": "derrière",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/behind.mp3"
+  },
+  {
+    "name": "clear",
+    "level": 5,
+    "translation": "clair",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/clear.mp3"
+  },
+  {
+    "name": "tail",
+    "level": 5,
+    "translation": "queue",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tail.mp3"
+  },
+  {
+    "name": "produce",
+    "level": 5,
+    "translation": "produire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/produce.mp3"
+  },
+  {
+    "name": "fact",
+    "level": 5,
+    "translation": "fait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fact.mp3"
+  },
+  {
+    "name": "street",
+    "level": 5,
+    "translation": "rue",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/street.mp3"
+  },
+  {
+    "name": "inch",
+    "level": 5,
+    "translation": "pouce",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/inch.mp3"
+  },
+  {
+    "name": "multiply",
+    "level": 5,
+    "translation": "multiplier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/multiply.mp3"
+  },
+  {
+    "name": "nothing",
+    "level": 5,
+    "translation": "rien",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/nothing.mp3"
+  },
+  {
+    "name": "course",
+    "level": 5,
+    "translation": "cours",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/course.mp3"
+  },
+  {
+    "name": "stay",
+    "level": 5,
+    "translation": "rester",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stay.mp3"
+  },
+  {
+    "name": "wheel",
+    "level": 5,
+    "translation": "roue",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wheel.mp3"
+  },
+  {
+    "name": "full",
+    "level": 5,
+    "translation": "plein",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/full.mp3"
+  },
+  {
+    "name": "force",
+    "level": 5,
+    "translation": "force",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/force.mp3"
+  },
+  {
+    "name": "blue",
+    "level": 5,
+    "translation": "bleu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/blue.mp3"
+  },
+  {
+    "name": "object",
+    "level": 5,
+    "translation": "objet",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/object.mp3"
+  },
+  {
+    "name": "decide",
+    "level": 5,
+    "translation": "décider",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/decide.mp3"
+  },
+  {
+    "name": "surface",
+    "level": 5,
+    "translation": "surface",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/surface.mp3"
+  },
+  {
+    "name": "deep",
+    "level": 5,
+    "translation": "profond",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/deep.mp3"
+  },
+  {
+    "name": "moon",
+    "level": 5,
+    "translation": "lune",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/moon.mp3"
+  },
+  {
+    "name": "island",
+    "level": 5,
+    "translation": "île",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/island.mp3"
+  },
+  {
+    "name": "foot",
+    "level": 5,
+    "translation": "pied",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/foot.mp3"
+  },
+  {
+    "name": "system",
+    "level": 5,
+    "translation": "système",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/system.mp3"
+  },
+  {
+    "name": "busy",
+    "level": 5,
+    "translation": "occupé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/busy.mp3"
+  },
+  {
+    "name": "test",
+    "level": 5,
+    "translation": "test",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/test.mp3"
+  },
+  {
+    "name": "record",
+    "level": 5,
+    "translation": "enregistrer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/record.mp3"
+  },
+  {
+    "name": "boat",
+    "level": 5,
+    "translation": "bateau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/boat.mp3"
+  },
+  {
+    "name": "common",
+    "level": 5,
+    "translation": "commun",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/common.mp3"
+  },
+  {
+    "name": "gold",
+    "level": 5,
+    "translation": "or",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gold.mp3"
+  },
+  {
+    "name": "possible",
+    "level": 5,
+    "translation": "possible",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/possible.mp3"
+  },
+  {
+    "name": "plane",
+    "level": 5,
+    "translation": "avion",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/plane.mp3"
+  },
+  {
+    "name": "stead",
+    "level": 5,
+    "translation": "ferme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stead.mp3"
+  },
+  {
+    "name": "dry",
+    "level": 5,
+    "translation": "sec",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dry.mp3"
+  },
+  {
+    "name": "wonder",
+    "level": 5,
+    "translation": "émerveiller",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wonder.mp3"
+  },
+  {
+    "name": "laugh",
+    "level": 5,
+    "translation": "rire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/laugh.mp3"
+  },
+  {
+    "name": "thousand",
+    "level": 5,
+    "translation": "mille",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/thousand.mp3"
+  },
+  {
+    "name": "ago",
+    "level": 5,
+    "translation": "il y a",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ago.mp3"
+  },
+  {
+    "name": "ran",
+    "level": 5,
+    "translation": "couru",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ran.mp3"
+  },
+  {
+    "name": "check",
+    "level": 5,
+    "translation": "vérifier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/check.mp3"
+  },
+  {
+    "name": "game",
+    "level": 5,
+    "translation": "jeu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/game.mp3"
+  },
+  {
+    "name": "shape",
+    "level": 5,
+    "translation": "forme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shape.mp3"
+  },
+  {
+    "name": "equate",
+    "level": 5,
+    "translation": "équivaloir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/equate.mp3"
+  },
+  {
+    "name": "hot",
+    "level": 5,
+    "translation": "chaud",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hot.mp3"
+  },
+  {
+    "name": "miss",
+    "level": 5,
+    "translation": "manquer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/miss.mp3"
+  },
+  {
+    "name": "brought",
+    "level": 5,
+    "translation": "apporté",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/brought.mp3"
+  },
+  {
+    "name": "heat",
+    "level": 5,
+    "translation": "chaleur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/heat.mp3"
+  },
+  {
+    "name": "snow",
+    "level": 5,
+    "translation": "neige",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/snow.mp3"
+  },
+  {
+    "name": "tire",
+    "level": 5,
+    "translation": "pneu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tire.mp3"
+  },
+  {
+    "name": "bring",
+    "level": 5,
+    "translation": "apporter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bring.mp3"
+  },
+  {
+    "name": "yes",
+    "level": 5,
+    "translation": "oui",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/yes.mp3"
+  },
+  {
+    "name": "distant",
+    "level": 5,
+    "translation": "distant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/distant.mp3"
+  },
+  {
+    "name": "fill",
+    "level": 5,
+    "translation": "remplir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fill.mp3"
+  },
+  {
+    "name": "east",
+    "level": 5,
+    "translation": "est",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/east.mp3"
+  },
+  {
+    "name": "paint",
+    "level": 5,
+    "translation": "peindre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/paint.mp3"
+  },
+  {
+    "name": "language",
+    "level": 5,
+    "translation": "langue",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/language.mp3"
+  },
+  {
+    "name": "among",
+    "level": 5,
+    "translation": "parmi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/among.mp3"
+  },
+  {
+    "name": "grand",
+    "level": 5,
+    "translation": "grand",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/grand.mp3"
+  },
+  {
+    "name": "ball",
+    "level": 5,
+    "translation": "balle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ball.mp3"
+  },
+  {
+    "name": "yet",
+    "level": 5,
+    "translation": "encore",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/yet.mp3"
+  },
+  {
+    "name": "wave",
+    "level": 5,
+    "translation": "vague",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wave.mp3"
+  },
+  {
+    "name": "drop",
+    "level": 5,
+    "translation": "laisser tomber",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/drop.mp3"
+  },
+  {
+    "name": "heart",
+    "level": 5,
+    "translation": "cœur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/heart.mp3"
+  },
+  {
+    "name": "am",
+    "level": 5,
+    "translation": "suis",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/am.mp3"
+  },
+  {
+    "name": "present",
+    "level": 5,
+    "translation": "présent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/present.mp3"
+  },
+  {
+    "name": "heavy",
+    "level": 5,
+    "translation": "lourd",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/heavy.mp3"
+  },
+  {
+    "name": "dance",
+    "level": 5,
+    "translation": "danser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dance.mp3"
+  },
+  {
+    "name": "engine",
+    "level": 5,
+    "translation": "moteur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/engine.mp3"
+  },
+  {
+    "name": "position",
+    "level": 6,
+    "translation": "position",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/position.mp3"
+  },
+  {
+    "name": "arm",
+    "level": 6,
+    "translation": "bras",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/arm.mp3"
+  },
+  {
+    "name": "wide",
+    "level": 6,
+    "translation": "large",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wide.mp3"
+  },
+  {
+    "name": "sail",
+    "level": 6,
+    "translation": "voile",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sail.mp3"
+  },
+  {
+    "name": "material",
+    "level": 6,
+    "translation": "matériau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/material.mp3"
+  },
+  {
+    "name": "size",
+    "level": 6,
+    "translation": "taille",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/size.mp3"
+  },
+  {
+    "name": "vary",
+    "level": 6,
+    "translation": "varier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/vary.mp3"
+  },
+  {
+    "name": "settle",
+    "level": 6,
+    "translation": "s'installer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/settle.mp3"
+  },
+  {
+    "name": "speak",
+    "level": 6,
+    "translation": "parler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/speak.mp3"
+  },
+  {
+    "name": "weight",
+    "level": 6,
+    "translation": "poids",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/weight.mp3"
+  },
+  {
+    "name": "general",
+    "level": 6,
+    "translation": "général",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/general.mp3"
+  },
+  {
+    "name": "ice",
+    "level": 6,
+    "translation": "glace",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ice.mp3"
+  },
+  {
+    "name": "matter",
+    "level": 6,
+    "translation": "matière",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/matter.mp3"
+  },
+  {
+    "name": "circle",
+    "level": 6,
+    "translation": "cercle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/circle.mp3"
+  },
+  {
+    "name": "pair",
+    "level": 6,
+    "translation": "paire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pair.mp3"
+  },
+  {
+    "name": "include",
+    "level": 6,
+    "translation": "inclure",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/include.mp3"
+  },
+  {
+    "name": "divide",
+    "level": 6,
+    "translation": "diviser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/divide.mp3"
+  },
+  {
+    "name": "syllable",
+    "level": 6,
+    "translation": "syllabe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/syllable.mp3"
+  },
+  {
+    "name": "felt",
+    "level": 6,
+    "translation": "ressenti",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/felt.mp3"
+  },
+  {
+    "name": "perhaps",
+    "level": 6,
+    "translation": "peut-être",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/perhaps.mp3"
+  },
+  {
+    "name": "pick",
+    "level": 6,
+    "translation": "choisir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pick.mp3"
+  },
+  {
+    "name": "sudden",
+    "level": 6,
+    "translation": "soudain",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sudden.mp3"
+  },
+  {
+    "name": "count",
+    "level": 6,
+    "translation": "compter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/count.mp3"
+  },
+  {
+    "name": "square",
+    "level": 6,
+    "translation": "carré",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/square.mp3"
+  },
+  {
+    "name": "reason",
+    "level": 6,
+    "translation": "raison",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/reason.mp3"
+  },
+  {
+    "name": "length",
+    "level": 6,
+    "translation": "longueur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/length.mp3"
+  },
+  {
+    "name": "represent",
+    "level": 6,
+    "translation": "représenter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/represent.mp3"
+  },
+  {
+    "name": "art",
+    "level": 6,
+    "translation": "art",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/art.mp3"
+  },
+  {
+    "name": "subject",
+    "level": 6,
+    "translation": "sujet",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/subject.mp3"
+  },
+  {
+    "name": "region",
+    "level": 6,
+    "translation": "région",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/region.mp3"
+  },
+  {
+    "name": "energy",
+    "level": 6,
+    "translation": "énergie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/energy.mp3"
+  },
+  {
+    "name": "hunt",
+    "level": 6,
+    "translation": "chasser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hunt.mp3"
+  },
+  {
+    "name": "probable",
+    "level": 6,
+    "translation": "probable",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/probable.mp3"
+  },
+  {
+    "name": "bed",
+    "level": 6,
+    "translation": "lit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bed.mp3"
+  },
+  {
+    "name": "brother",
+    "level": 6,
+    "translation": "frère",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/brother.mp3"
+  },
+  {
+    "name": "egg",
+    "level": 6,
+    "translation": "œuf",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/egg.mp3"
+  },
+  {
+    "name": "ride",
+    "level": 6,
+    "translation": "monter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ride.mp3"
+  },
+  {
+    "name": "cell",
+    "level": 6,
+    "translation": "cellule",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cell.mp3"
+  },
+  {
+    "name": "believe",
+    "level": 6,
+    "translation": "croire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/believe.mp3"
+  },
+  {
+    "name": "fraction",
+    "level": 6,
+    "translation": "fraction",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fraction.mp3"
+  },
+  {
+    "name": "forest",
+    "level": 6,
+    "translation": "forêt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/forest.mp3"
+  },
+  {
+    "name": "sit",
+    "level": 6,
+    "translation": "s'asseoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sit.mp3"
+  },
+  {
+    "name": "race",
+    "level": 6,
+    "translation": "course",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/race.mp3"
+  },
+  {
+    "name": "window",
+    "level": 6,
+    "translation": "fenêtre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/window.mp3"
+  },
+  {
+    "name": "store",
+    "level": 6,
+    "translation": "magasin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/store.mp3"
+  },
+  {
+    "name": "summer",
+    "level": 6,
+    "translation": "été",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/summer.mp3"
+  },
+  {
+    "name": "train",
+    "level": 6,
+    "translation": "train",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/train.mp3"
+  },
+  {
+    "name": "sleep",
+    "level": 6,
+    "translation": "dormir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sleep.mp3"
+  },
+  {
+    "name": "prove",
+    "level": 6,
+    "translation": "prouver",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/prove.mp3"
+  },
+  {
+    "name": "lone",
+    "level": 6,
+    "translation": "seul",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lone.mp3"
+  },
+  {
+    "name": "leg",
+    "level": 6,
+    "translation": "jambe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/leg.mp3"
+  },
+  {
+    "name": "exercise",
+    "level": 6,
+    "translation": "exercice",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/exercise.mp3"
+  },
+  {
+    "name": "wall",
+    "level": 6,
+    "translation": "mur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wall.mp3"
+  },
+  {
+    "name": "catch",
+    "level": 6,
+    "translation": "attraper",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/catch.mp3"
+  },
+  {
+    "name": "mount",
+    "level": 6,
+    "translation": "monter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mount.mp3"
+  },
+  {
+    "name": "wish",
+    "level": 6,
+    "translation": "souhaiter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wish.mp3"
+  },
+  {
+    "name": "sky",
+    "level": 6,
+    "translation": "ciel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sky.mp3"
+  },
+  {
+    "name": "board",
+    "level": 6,
+    "translation": "tableau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/board.mp3"
+  },
+  {
+    "name": "joy",
+    "level": 6,
+    "translation": "joie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/joy.mp3"
+  },
+  {
+    "name": "winter",
+    "level": 6,
+    "translation": "hiver",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/winter.mp3"
+  },
+  {
+    "name": "sat",
+    "level": 6,
+    "translation": "s'est assis",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sat.mp3"
+  },
+  {
+    "name": "written",
+    "level": 6,
+    "translation": "écrit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/written.mp3"
+  },
+  {
+    "name": "wild",
+    "level": 6,
+    "translation": "sauvage",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wild.mp3"
+  },
+  {
+    "name": "instrument",
+    "level": 6,
+    "translation": "instrument",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/instrument.mp3"
+  },
+  {
+    "name": "kept",
+    "level": 6,
+    "translation": "gardé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/kept.mp3"
+  },
+  {
+    "name": "glass",
+    "level": 6,
+    "translation": "verre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/glass.mp3"
+  },
+  {
+    "name": "grass",
+    "level": 6,
+    "translation": "herbe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/grass.mp3"
+  },
+  {
+    "name": "cow",
+    "level": 6,
+    "translation": "vache",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cow.mp3"
+  },
+  {
+    "name": "job",
+    "level": 6,
+    "translation": "travail",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/job.mp3"
+  },
+  {
+    "name": "edge",
+    "level": 6,
+    "translation": "bord",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/edge.mp3"
+  },
+  {
+    "name": "sign",
+    "level": 6,
+    "translation": "signe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sign.mp3"
+  },
+  {
+    "name": "visit",
+    "level": 6,
+    "translation": "visiter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/visit.mp3"
+  },
+  {
+    "name": "past",
+    "level": 6,
+    "translation": "passé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/past.mp3"
+  },
+  {
+    "name": "soft",
+    "level": 6,
+    "translation": "doux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/soft.mp3"
+  },
+  {
+    "name": "fun",
+    "level": 6,
+    "translation": "amusant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fun.mp3"
+  },
+  {
+    "name": "bright",
+    "level": 6,
+    "translation": "brillant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bright.mp3"
+  },
+  {
+    "name": "gas",
+    "level": 6,
+    "translation": "gaz",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gas.mp3"
+  },
+  {
+    "name": "weather",
+    "level": 6,
+    "translation": "temps",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/weather.mp3"
+  },
+  {
+    "name": "month",
+    "level": 6,
+    "translation": "mois",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/month.mp3"
+  },
+  {
+    "name": "million",
+    "level": 6,
+    "translation": "million",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/million.mp3"
+  },
+  {
+    "name": "bear",
+    "level": 6,
+    "translation": "ours",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bear.mp3"
+  },
+  {
+    "name": "finish",
+    "level": 6,
+    "translation": "finir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/finish.mp3"
+  },
+  {
+    "name": "happy",
+    "level": 6,
+    "translation": "heureux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/happy.mp3"
+  },
+  {
+    "name": "hope",
+    "level": 6,
+    "translation": "espoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hope.mp3"
+  },
+  {
+    "name": "flower",
+    "level": 6,
+    "translation": "fleur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/flower.mp3"
+  },
+  {
+    "name": "clothe",
+    "level": 6,
+    "translation": "habiller",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/clothe.mp3"
+  },
+  {
+    "name": "strange",
+    "level": 6,
+    "translation": "étrange",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/strange.mp3"
+  },
+  {
+    "name": "gone",
+    "level": 6,
+    "translation": "parti",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gone.mp3"
+  },
+  {
+    "name": "jump",
+    "level": 6,
+    "translation": "sauter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/jump.mp3"
+  },
+  {
+    "name": "baby",
+    "level": 6,
+    "translation": "bébé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/baby.mp3"
+  },
+  {
+    "name": "eight",
+    "level": 6,
+    "translation": "huit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/eight.mp3"
+  },
+  {
+    "name": "village",
+    "level": 6,
+    "translation": "village",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/village.mp3"
+  },
+  {
+    "name": "meet",
+    "level": 6,
+    "translation": "rencontrer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/meet.mp3"
+  },
+  {
+    "name": "root",
+    "level": 6,
+    "translation": "racine",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/root.mp3"
+  },
+  {
+    "name": "buy",
+    "level": 6,
+    "translation": "acheter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/buy.mp3"
+  },
+  {
+    "name": "raise",
+    "level": 6,
+    "translation": "élever",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/raise.mp3"
+  },
+  {
+    "name": "solve",
+    "level": 6,
+    "translation": "résoudre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/solve.mp3"
+  },
+  {
+    "name": "metal",
+    "level": 6,
+    "translation": "métal",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/metal.mp3"
+  },
+  {
+    "name": "whether",
+    "level": 7,
+    "translation": "si",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/whether.mp3"
+  },
+  {
+    "name": "push",
+    "level": 7,
+    "translation": "pousser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/push.mp3"
+  },
+  {
+    "name": "seven",
+    "level": 7,
+    "translation": "sept",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/seven.mp3"
+  },
+  {
+    "name": "paragraph",
+    "level": 7,
+    "translation": "paragraphe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/paragraph.mp3"
+  },
+  {
+    "name": "third",
+    "level": 7,
+    "translation": "tiers",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/third.mp3"
+  },
+  {
+    "name": "shall",
+    "level": 7,
+    "translation": "devra",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shall.mp3"
+  },
+  {
+    "name": "held",
+    "level": 7,
+    "translation": "tenu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/held.mp3"
+  },
+  {
+    "name": "hair",
+    "level": 7,
+    "translation": "cheveux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hair.mp3"
+  },
+  {
+    "name": "describe",
+    "level": 7,
+    "translation": "décrire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/describe.mp3"
+  },
+  {
+    "name": "cook",
+    "level": 7,
+    "translation": "cuisiner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cook.mp3"
+  },
+  {
+    "name": "floor",
+    "level": 7,
+    "translation": "sol",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/floor.mp3"
+  },
+  {
+    "name": "either",
+    "level": 7,
+    "translation": "soit...soit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/either.mp3"
+  },
+  {
+    "name": "result",
+    "level": 7,
+    "translation": "résultat",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/result.mp3"
+  },
+  {
+    "name": "burn",
+    "level": 7,
+    "translation": "brûler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/burn.mp3"
+  },
+  {
+    "name": "hill",
+    "level": 7,
+    "translation": "colline",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hill.mp3"
+  },
+  {
+    "name": "safe",
+    "level": 7,
+    "translation": "sûr",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/safe.mp3"
+  },
+  {
+    "name": "cat",
+    "level": 7,
+    "translation": "chat",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cat.mp3"
+  },
+  {
+    "name": "century",
+    "level": 7,
+    "translation": "siècle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/century.mp3"
+  },
+  {
+    "name": "consider",
+    "level": 7,
+    "translation": "considérer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/consider.mp3"
+  },
+  {
+    "name": "type",
+    "level": 7,
+    "translation": "type",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/type.mp3"
+  },
+  {
+    "name": "law",
+    "level": 7,
+    "translation": "loi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/law.mp3"
+  },
+  {
+    "name": "bit",
+    "level": 7,
+    "translation": "morceau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bit.mp3"
+  },
+  {
+    "name": "coast",
+    "level": 7,
+    "translation": "côte",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/coast.mp3"
+  },
+  {
+    "name": "copy",
+    "level": 7,
+    "translation": "copier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/copy.mp3"
+  },
+  {
+    "name": "phrase",
+    "level": 7,
+    "translation": "phrase",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/phrase.mp3"
+  },
+  {
+    "name": "silent",
+    "level": 7,
+    "translation": "silencieux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/silent.mp3"
+  },
+  {
+    "name": "tall",
+    "level": 7,
+    "translation": "grand",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tall.mp3"
+  },
+  {
+    "name": "sand",
+    "level": 7,
+    "translation": "sable",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sand.mp3"
+  },
+  {
+    "name": "soil",
+    "level": 7,
+    "translation": "sol",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/soil.mp3"
+  },
+  {
+    "name": "roll",
+    "level": 7,
+    "translation": "rouler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/roll.mp3"
+  },
+  {
+    "name": "temperature",
+    "level": 7,
+    "translation": "température",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/temperature.mp3"
+  },
+  {
+    "name": "finger",
+    "level": 7,
+    "translation": "doigt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/finger.mp3"
+  },
+  {
+    "name": "industry",
+    "level": 7,
+    "translation": "industrie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/industry.mp3"
+  },
+  {
+    "name": "value",
+    "level": 7,
+    "translation": "valeur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/value.mp3"
+  },
+  {
+    "name": "fight",
+    "level": 7,
+    "translation": "se battre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fight.mp3"
+  },
+  {
+    "name": "lie",
+    "level": 7,
+    "translation": "mentir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lie.mp3"
+  },
+  {
+    "name": "beat",
+    "level": 7,
+    "translation": "battre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/beat.mp3"
+  },
+  {
+    "name": "excite",
+    "level": 7,
+    "translation": "exciter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/excite.mp3"
+  },
+  {
+    "name": "natural",
+    "level": 7,
+    "translation": "naturel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/natural.mp3"
+  },
+  {
+    "name": "view",
+    "level": 7,
+    "translation": "vue",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/view.mp3"
+  },
+  {
+    "name": "sense",
+    "level": 7,
+    "translation": "sens",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sense.mp3"
+  },
+  {
+    "name": "ear",
+    "level": 7,
+    "translation": "oreille",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ear.mp3"
+  },
+  {
+    "name": "else",
+    "level": 7,
+    "translation": "autre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/else.mp3"
+  },
+  {
+    "name": "quite",
+    "level": 7,
+    "translation": "assez",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/quite.mp3"
+  },
+  {
+    "name": "broke",
+    "level": 7,
+    "translation": "cassé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/broke.mp3"
+  },
+  {
+    "name": "case",
+    "level": 7,
+    "translation": "cas",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/case.mp3"
+  },
+  {
+    "name": "middle",
+    "level": 7,
+    "translation": "milieu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/middle.mp3"
+  },
+  {
+    "name": "kill",
+    "level": 7,
+    "translation": "tuer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/kill.mp3"
+  },
+  {
+    "name": "son",
+    "level": 7,
+    "translation": "fils",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/son.mp3"
+  },
+  {
+    "name": "lake",
+    "level": 7,
+    "translation": "lac",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lake.mp3"
+  },
+  {
+    "name": "moment",
+    "level": 7,
+    "translation": "moment",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/moment.mp3"
+  },
+  {
+    "name": "scale",
+    "level": 7,
+    "translation": "échelle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/scale.mp3"
+  },
+  {
+    "name": "loud",
+    "level": 7,
+    "translation": "fort",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/loud.mp3"
+  },
+  {
+    "name": "spring",
+    "level": 7,
+    "translation": "printemps",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/spring.mp3"
+  },
+  {
+    "name": "observe",
+    "level": 7,
+    "translation": "observer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/observe.mp3"
+  },
+  {
+    "name": "child",
+    "level": 7,
+    "translation": "enfant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/child.mp3"
+  },
+  {
+    "name": "straight",
+    "level": 7,
+    "translation": "droit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/straight.mp3"
+  },
+  {
+    "name": "consonant",
+    "level": 7,
+    "translation": "consonne",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/consonant.mp3"
+  },
+  {
+    "name": "nation",
+    "level": 7,
+    "translation": "nation",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/nation.mp3"
+  },
+  {
+    "name": "dictionary",
+    "level": 7,
+    "translation": "dictionnaire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dictionary.mp3"
+  },
+  {
+    "name": "milk",
+    "level": 7,
+    "translation": "lait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/milk.mp3"
+  },
+  {
+    "name": "speed",
+    "level": 7,
+    "translation": "vitesse",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/speed.mp3"
+  },
+  {
+    "name": "method",
+    "level": 7,
+    "translation": "méthode",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/method.mp3"
+  },
+  {
+    "name": "organ",
+    "level": 7,
+    "translation": "organe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/organ.mp3"
+  },
+  {
+    "name": "pay",
+    "level": 7,
+    "translation": "payer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pay.mp3"
+  },
+  {
+    "name": "age",
+    "level": 7,
+    "translation": "âge",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/age.mp3"
+  },
+  {
+    "name": "section",
+    "level": 7,
+    "translation": "section",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/section.mp3"
+  },
+  {
+    "name": "dress",
+    "level": 7,
+    "translation": "robe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dress.mp3"
+  },
+  {
+    "name": "cloud",
+    "level": 7,
+    "translation": "nuage",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cloud.mp3"
+  },
+  {
+    "name": "surprise",
+    "level": 7,
+    "translation": "surprise",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/surprise.mp3"
+  },
+  {
+    "name": "quiet",
+    "level": 7,
+    "translation": "silencieux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/quiet.mp3"
+  },
+  {
+    "name": "stone",
+    "level": 7,
+    "translation": "pierre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stone.mp3"
+  },
+  {
+    "name": "tiny",
+    "level": 7,
+    "translation": "minuscule",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tiny.mp3"
+  },
+  {
+    "name": "climb",
+    "level": 7,
+    "translation": "grimper",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/climb.mp3"
+  },
+  {
+    "name": "cool",
+    "level": 7,
+    "translation": "cool",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cool.mp3"
+  },
+  {
+    "name": "design",
+    "level": 7,
+    "translation": "design",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/design.mp3"
+  },
+  {
+    "name": "poor",
+    "level": 7,
+    "translation": "pauvre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/poor.mp3"
+  },
+  {
+    "name": "lot",
+    "level": 7,
+    "translation": "beaucoup",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lot.mp3"
+  },
+  {
+    "name": "experiment",
+    "level": 7,
+    "translation": "expérience",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/experiment.mp3"
+  },
+  {
+    "name": "bottom",
+    "level": 7,
+    "translation": "bas",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bottom.mp3"
+  },
+  {
+    "name": "key",
+    "level": 7,
+    "translation": "clé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/key.mp3"
+  },
+  {
+    "name": "iron",
+    "level": 7,
+    "translation": "fer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/iron.mp3"
+  },
+  {
+    "name": "single",
+    "level": 7,
+    "translation": "unique",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/single.mp3"
+  },
+  {
+    "name": "stick",
+    "level": 7,
+    "translation": "bâton",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stick.mp3"
+  },
+  {
+    "name": "flat",
+    "level": 7,
+    "translation": "plat",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/flat.mp3"
+  },
+  {
+    "name": "twenty",
+    "level": 7,
+    "translation": "vingt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/twenty.mp3"
+  },
+  {
+    "name": "skin",
+    "level": 7,
+    "translation": "peau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/skin.mp3"
+  },
+  {
+    "name": "smile",
+    "level": 7,
+    "translation": "sourire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/smile.mp3"
+  },
+  {
+    "name": "crease",
+    "level": 7,
+    "translation": "plis",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/crease.mp3"
+  },
+  {
+    "name": "hole",
+    "level": 7,
+    "translation": "trou",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hole.mp3"
+  },
+  {
+    "name": "trade",
+    "level": 7,
+    "translation": "commerce",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/trade.mp3"
+  },
+  {
+    "name": "melody",
+    "level": 7,
+    "translation": "mélodie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/melody.mp3"
+  },
+  {
+    "name": "trip",
+    "level": 7,
+    "translation": "voyage",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/trip.mp3"
+  },
+  {
+    "name": "office",
+    "level": 7,
+    "translation": "bureau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/office.mp3"
+  },
+  {
+    "name": "receive",
+    "level": 7,
+    "translation": "recevoir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/receive.mp3"
+  },
+  {
+    "name": "row",
+    "level": 7,
+    "translation": "rangée",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/row.mp3"
+  },
+  {
+    "name": "mouth",
+    "level": 7,
+    "translation": "bouche",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mouth.mp3"
+  },
+  {
+    "name": "exact",
+    "level": 7,
+    "translation": "exact",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/exact.mp3"
+  },
+  {
+    "name": "symbol",
+    "level": 8,
+    "translation": "symbole",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/symbol.mp3"
+  },
+  {
+    "name": "die",
+    "level": 8,
+    "translation": "mourir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/die.mp3"
+  },
+  {
+    "name": "least",
+    "level": 8,
+    "translation": "le moins",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/least.mp3"
+  },
+  {
+    "name": "trouble",
+    "level": 8,
+    "translation": "problème",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/trouble.mp3"
+  },
+  {
+    "name": "shout",
+    "level": 8,
+    "translation": "crier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shout.mp3"
+  },
+  {
+    "name": "except",
+    "level": 8,
+    "translation": "sauf",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/except.mp3"
+  },
+  {
+    "name": "wrote",
+    "level": 8,
+    "translation": "écrit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wrote.mp3"
+  },
+  {
+    "name": "seed",
+    "level": 8,
+    "translation": "graine",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/seed.mp3"
+  },
+  {
+    "name": "tone",
+    "level": 8,
+    "translation": "ton",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tone.mp3"
+  },
+  {
+    "name": "join",
+    "level": 8,
+    "translation": "rejoindre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/join.mp3"
+  },
+  {
+    "name": "suggest",
+    "level": 8,
+    "translation": "suggérer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/suggest.mp3"
+  },
+  {
+    "name": "clean",
+    "level": 8,
+    "translation": "nettoyer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/clean.mp3"
+  },
+  {
+    "name": "break",
+    "level": 8,
+    "translation": "casser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/break.mp3"
+  },
+  {
+    "name": "lady",
+    "level": 8,
+    "translation": "dame",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lady.mp3"
+  },
+  {
+    "name": "yard",
+    "level": 8,
+    "translation": "cour",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/yard.mp3"
+  },
+  {
+    "name": "rise",
+    "level": 8,
+    "translation": "lever",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rise.mp3"
+  },
+  {
+    "name": "bad",
+    "level": 8,
+    "translation": "mauvais",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bad.mp3"
+  },
+  {
+    "name": "blow",
+    "level": 8,
+    "translation": "souffler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/blow.mp3"
+  },
+  {
+    "name": "oil",
+    "level": 8,
+    "translation": "huile",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/oil.mp3"
+  },
+  {
+    "name": "blood",
+    "level": 8,
+    "translation": "sang",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/blood.mp3"
+  },
+  {
+    "name": "touch",
+    "level": 8,
+    "translation": "toucher",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/touch.mp3"
+  },
+  {
+    "name": "grew",
+    "level": 8,
+    "translation": "a grandi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/grew.mp3"
+  },
+  {
+    "name": "cent",
+    "level": 8,
+    "translation": "cent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cent.mp3"
+  },
+  {
+    "name": "mix",
+    "level": 8,
+    "translation": "mélanger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mix.mp3"
+  },
+  {
+    "name": "team",
+    "level": 8,
+    "translation": "équipe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/team.mp3"
+  },
+  {
+    "name": "wire",
+    "level": 8,
+    "translation": "fil",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wire.mp3"
+  },
+  {
+    "name": "cost",
+    "level": 8,
+    "translation": "coût",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cost.mp3"
+  },
+  {
+    "name": "lost",
+    "level": 8,
+    "translation": "perdu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lost.mp3"
+  },
+  {
+    "name": "brown",
+    "level": 8,
+    "translation": "marron",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/brown.mp3"
+  },
+  {
+    "name": "wear",
+    "level": 8,
+    "translation": "porter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wear.mp3"
+  },
+  {
+    "name": "garden",
+    "level": 8,
+    "translation": "jardin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/garden.mp3"
+  },
+  {
+    "name": "equal",
+    "level": 8,
+    "translation": "égal",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/equal.mp3"
+  },
+  {
+    "name": "sent",
+    "level": 8,
+    "translation": "envoyé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sent.mp3"
+  },
+  {
+    "name": "choose",
+    "level": 8,
+    "translation": "choisir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/choose.mp3"
+  },
+  {
+    "name": "fell",
+    "level": 8,
+    "translation": "est tombé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fell.mp3"
+  },
+  {
+    "name": "fit",
+    "level": 8,
+    "translation": "adapter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fit.mp3"
+  },
+  {
+    "name": "flow",
+    "level": 8,
+    "translation": "couler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/flow.mp3"
+  },
+  {
+    "name": "fair",
+    "level": 8,
+    "translation": "équitable",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fair.mp3"
+  },
+  {
+    "name": "bank",
+    "level": 8,
+    "translation": "banque",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bank.mp3"
+  },
+  {
+    "name": "collect",
+    "level": 8,
+    "translation": "collecter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/collect.mp3"
+  },
+  {
+    "name": "save",
+    "level": 8,
+    "translation": "sauver",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/save.mp3"
+  },
+  {
+    "name": "control",
+    "level": 8,
+    "translation": "contrôler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/control.mp3"
+  },
+  {
+    "name": "decimal",
+    "level": 8,
+    "translation": "décimal",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/decimal.mp3"
+  },
+  {
+    "name": "gentle",
+    "level": 8,
+    "translation": "doux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gentle.mp3"
+  },
+  {
+    "name": "woman",
+    "level": 8,
+    "translation": "femme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/woman.mp3"
+  },
+  {
+    "name": "captain",
+    "level": 8,
+    "translation": "capitaine",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/captain.mp3"
+  },
+  {
+    "name": "practice",
+    "level": 8,
+    "translation": "pratiquer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/practice.mp3"
+  },
+  {
+    "name": "separate",
+    "level": 8,
+    "translation": "séparer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/separate.mp3"
+  },
+  {
+    "name": "difficult",
+    "level": 8,
+    "translation": "difficile",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/difficult.mp3"
+  },
+  {
+    "name": "doctor",
+    "level": 8,
+    "translation": "docteur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/doctor.mp3"
+  },
+  {
+    "name": "please",
+    "level": 8,
+    "translation": "s'il vous plaît",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/please.mp3"
+  },
+  {
+    "name": "protect",
+    "level": 8,
+    "translation": "protéger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/protect.mp3"
+  },
+  {
+    "name": "noon",
+    "level": 8,
+    "translation": "midi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/noon.mp3"
+  },
+  {
+    "name": "whose",
+    "level": 8,
+    "translation": "à qui",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/whose.mp3"
+  },
+  {
+    "name": "locate",
+    "level": 8,
+    "translation": "localiser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/locate.mp3"
+  },
+  {
+    "name": "ring",
+    "level": 8,
+    "translation": "anneau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/ring.mp3"
+  },
+  {
+    "name": "character",
+    "level": 8,
+    "translation": "caractère",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/character.mp3"
+  },
+  {
+    "name": "insect",
+    "level": 8,
+    "translation": "insecte",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/insect.mp3"
+  },
+  {
+    "name": "caught",
+    "level": 8,
+    "translation": "attrapé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/caught.mp3"
+  },
+  {
+    "name": "period",
+    "level": 8,
+    "translation": "point",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/period.mp3"
+  },
+  {
+    "name": "indicate",
+    "level": 8,
+    "translation": "indiquer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/indicate.mp3"
+  },
+  {
+    "name": "radio",
+    "level": 8,
+    "translation": "radio",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/radio.mp3"
+  },
+  {
+    "name": "spoke",
+    "level": 8,
+    "translation": "parlé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/spoke.mp3"
+  },
+  {
+    "name": "atom",
+    "level": 8,
+    "translation": "atome",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/atom.mp3"
+  },
+  {
+    "name": "human",
+    "level": 8,
+    "translation": "humain",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/human.mp3"
+  },
+  {
+    "name": "history",
+    "level": 8,
+    "translation": "histoire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/history.mp3"
+  },
+  {
+    "name": "effect",
+    "level": 8,
+    "translation": "effet",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/effect.mp3"
+  },
+  {
+    "name": "electric",
+    "level": 8,
+    "translation": "électrique",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/electric.mp3"
+  },
+  {
+    "name": "expect",
+    "level": 8,
+    "translation": "s'attendre à",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/expect.mp3"
+  },
+  {
+    "name": "crop",
+    "level": 8,
+    "translation": "culture",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/crop.mp3"
+  },
+  {
+    "name": "modern",
+    "level": 8,
+    "translation": "moderne",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/modern.mp3"
+  },
+  {
+    "name": "element",
+    "level": 8,
+    "translation": "élément",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/element.mp3"
+  },
+  {
+    "name": "hit",
+    "level": 8,
+    "translation": "frapper",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hit.mp3"
+  },
+  {
+    "name": "student",
+    "level": 8,
+    "translation": "étudiant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/student.mp3"
+  },
+  {
+    "name": "corner",
+    "level": 8,
+    "translation": "coin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/corner.mp3"
+  },
+  {
+    "name": "party",
+    "level": 8,
+    "translation": "fête",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/party.mp3"
+  },
+  {
+    "name": "supply",
+    "level": 8,
+    "translation": "fournir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/supply.mp3"
+  },
+  {
+    "name": "bone",
+    "level": 8,
+    "translation": "os",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bone.mp3"
+  },
+  {
+    "name": "rail",
+    "level": 8,
+    "translation": "rail",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rail.mp3"
+  },
+  {
+    "name": "imagine",
+    "level": 8,
+    "translation": "imaginer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/imagine.mp3"
+  },
+  {
+    "name": "provide",
+    "level": 8,
+    "translation": "fournir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/provide.mp3"
+  },
+  {
+    "name": "agree",
+    "level": 8,
+    "translation": "être d'accord",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/agree.mp3"
+  },
+  {
+    "name": "thus",
+    "level": 8,
+    "translation": "ainsi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/thus.mp3"
+  },
+  {
+    "name": "capital",
+    "level": 8,
+    "translation": "capitale",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/capital.mp3"
+  },
+  {
+    "name": "won't",
+    "level": 8,
+    "translation": "ne...pas",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/won't.mp3"
+  },
+  {
+    "name": "chair",
+    "level": 8,
+    "translation": "chaise",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/chair.mp3"
+  },
+  {
+    "name": "danger",
+    "level": 8,
+    "translation": "danger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/danger.mp3"
+  },
+  {
+    "name": "fruit",
+    "level": 8,
+    "translation": "fruit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fruit.mp3"
+  },
+  {
+    "name": "rich",
+    "level": 8,
+    "translation": "riche",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rich.mp3"
+  },
+  {
+    "name": "thick",
+    "level": 8,
+    "translation": "épais",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/thick.mp3"
+  },
+  {
+    "name": "soldier",
+    "level": 8,
+    "translation": "soldat",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/soldier.mp3"
+  },
+  {
+    "name": "process",
+    "level": 8,
+    "translation": "processus",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/process.mp3"
+  },
+  {
+    "name": "operate",
+    "level": 8,
+    "translation": "fonctionner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/operate.mp3"
+  },
+  {
+    "name": "guess",
+    "level": 8,
+    "translation": "deviner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/guess.mp3"
+  },
+  {
+    "name": "necessary",
+    "level": 8,
+    "translation": "nécessaire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/necessary.mp3"
+  },
+  {
+    "name": "sharp",
+    "level": 8,
+    "translation": "pointu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sharp.mp3"
+  },
+  {
+    "name": "wing",
+    "level": 8,
+    "translation": "aile",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wing.mp3"
+  },
+  {
+    "name": "create",
+    "level": 8,
+    "translation": "créer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/create.mp3"
+  },
+  {
+    "name": "neighbor",
+    "level": 9,
+    "translation": "voisin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/neighbor.mp3"
+  },
+  {
+    "name": "wash",
+    "level": 9,
+    "translation": "laver",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wash.mp3"
+  },
+  {
+    "name": "bat",
+    "level": 9,
+    "translation": "chauve-souris",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bat.mp3"
+  },
+  {
+    "name": "rather",
+    "level": 9,
+    "translation": "plutôt",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rather.mp3"
+  },
+  {
+    "name": "crowd",
+    "level": 9,
+    "translation": "foule",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/crowd.mp3"
+  },
+  {
+    "name": "corn",
+    "level": 9,
+    "translation": "maïs",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/corn.mp3"
+  },
+  {
+    "name": "compare",
+    "level": 9,
+    "translation": "comparer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/compare.mp3"
+  },
+  {
+    "name": "poem",
+    "level": 9,
+    "translation": "poème",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/poem.mp3"
+  },
+  {
+    "name": "string",
+    "level": 9,
+    "translation": "corde",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/string.mp3"
+  },
+  {
+    "name": "bell",
+    "level": 9,
+    "translation": "cloche",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bell.mp3"
+  },
+  {
+    "name": "depend",
+    "level": 9,
+    "translation": "dépendre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/depend.mp3"
+  },
+  {
+    "name": "meat",
+    "level": 9,
+    "translation": "viande",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/meat.mp3"
+  },
+  {
+    "name": "rub",
+    "level": 9,
+    "translation": "frotter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rub.mp3"
+  },
+  {
+    "name": "tube",
+    "level": 9,
+    "translation": "tube",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tube.mp3"
+  },
+  {
+    "name": "famous",
+    "level": 9,
+    "translation": "célèbre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/famous.mp3"
+  },
+  {
+    "name": "dollar",
+    "level": 9,
+    "translation": "dollar",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dollar.mp3"
+  },
+  {
+    "name": "stream",
+    "level": 9,
+    "translation": "ruisseau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stream.mp3"
+  },
+  {
+    "name": "fear",
+    "level": 9,
+    "translation": "peur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fear.mp3"
+  },
+  {
+    "name": "sight",
+    "level": 9,
+    "translation": "vue",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sight.mp3"
+  },
+  {
+    "name": "thin",
+    "level": 9,
+    "translation": "mince",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/thin.mp3"
+  },
+  {
+    "name": "triangle",
+    "level": 9,
+    "translation": "triangle",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/triangle.mp3"
+  },
+  {
+    "name": "planet",
+    "level": 9,
+    "translation": "planète",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/planet.mp3"
+  },
+  {
+    "name": "hurry",
+    "level": 9,
+    "translation": "se dépêcher",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hurry.mp3"
+  },
+  {
+    "name": "chief",
+    "level": 9,
+    "translation": "chef",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/chief.mp3"
+  },
+  {
+    "name": "colony",
+    "level": 9,
+    "translation": "colonie",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/colony.mp3"
+  },
+  {
+    "name": "clock",
+    "level": 9,
+    "translation": "horloge",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/clock.mp3"
+  },
+  {
+    "name": "mine",
+    "level": 9,
+    "translation": "mine",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mine.mp3"
+  },
+  {
+    "name": "tie",
+    "level": 9,
+    "translation": "cravate",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tie.mp3"
+  },
+  {
+    "name": "enter",
+    "level": 9,
+    "translation": "entrer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/enter.mp3"
+  },
+  {
+    "name": "major",
+    "level": 9,
+    "translation": "majeur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/major.mp3"
+  },
+  {
+    "name": "fresh",
+    "level": 9,
+    "translation": "frais",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fresh.mp3"
+  },
+  {
+    "name": "search",
+    "level": 9,
+    "translation": "chercher",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/search.mp3"
+  },
+  {
+    "name": "send",
+    "level": 9,
+    "translation": "envoyer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/send.mp3"
+  },
+  {
+    "name": "yellow",
+    "level": 9,
+    "translation": "jaune",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/yellow.mp3"
+  },
+  {
+    "name": "gun",
+    "level": 9,
+    "translation": "arme à feu",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gun.mp3"
+  },
+  {
+    "name": "allow",
+    "level": 9,
+    "translation": "permettre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/allow.mp3"
+  },
+  {
+    "name": "print",
+    "level": 9,
+    "translation": "imprimer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/print.mp3"
+  },
+  {
+    "name": "dead",
+    "level": 9,
+    "translation": "mort",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dead.mp3"
+  },
+  {
+    "name": "spot",
+    "level": 9,
+    "translation": "endroit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/spot.mp3"
+  },
+  {
+    "name": "desert",
+    "level": 9,
+    "translation": "désert",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/desert.mp3"
+  },
+  {
+    "name": "suit",
+    "level": 9,
+    "translation": "costume",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/suit.mp3"
+  },
+  {
+    "name": "current",
+    "level": 9,
+    "translation": "actuel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/current.mp3"
+  },
+  {
+    "name": "lift",
+    "level": 9,
+    "translation": "lever",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/lift.mp3"
+  },
+  {
+    "name": "rose",
+    "level": 9,
+    "translation": "rose",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rose.mp3"
+  },
+  {
+    "name": "continue",
+    "level": 9,
+    "translation": "continuer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/continue.mp3"
+  },
+  {
+    "name": "block",
+    "level": 9,
+    "translation": "bloc",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/block.mp3"
+  },
+  {
+    "name": "chart",
+    "level": 9,
+    "translation": "graphique",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/chart.mp3"
+  },
+  {
+    "name": "hat",
+    "level": 9,
+    "translation": "chapeau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/hat.mp3"
+  },
+  {
+    "name": "sell",
+    "level": 9,
+    "translation": "vendre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sell.mp3"
+  },
+  {
+    "name": "success",
+    "level": 9,
+    "translation": "succès",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/success.mp3"
+  },
+  {
+    "name": "company",
+    "level": 9,
+    "translation": "entreprise",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/company.mp3"
+  },
+  {
+    "name": "subtract",
+    "level": 9,
+    "translation": "soustraire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/subtract.mp3"
+  },
+  {
+    "name": "event",
+    "level": 9,
+    "translation": "événement",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/event.mp3"
+  },
+  {
+    "name": "particular",
+    "level": 9,
+    "translation": "particulier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/particular.mp3"
+  },
+  {
+    "name": "deal",
+    "level": 9,
+    "translation": "accord",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/deal.mp3"
+  },
+  {
+    "name": "swim",
+    "level": 9,
+    "translation": "nager",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/swim.mp3"
+  },
+  {
+    "name": "term",
+    "level": 9,
+    "translation": "terme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/term.mp3"
+  },
+  {
+    "name": "opposite",
+    "level": 9,
+    "translation": "opposé",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/opposite.mp3"
+  },
+  {
+    "name": "wife",
+    "level": 9,
+    "translation": "femme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wife.mp3"
+  },
+  {
+    "name": "shoe",
+    "level": 9,
+    "translation": "chaussure",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shoe.mp3"
+  },
+  {
+    "name": "shoulder",
+    "level": 9,
+    "translation": "épaule",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shoulder.mp3"
+  },
+  {
+    "name": "spread",
+    "level": 9,
+    "translation": "étendre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/spread.mp3"
+  },
+  {
+    "name": "arrange",
+    "level": 9,
+    "translation": "arranger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/arrange.mp3"
+  },
+  {
+    "name": "camp",
+    "level": 9,
+    "translation": "camp",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/camp.mp3"
+  },
+  {
+    "name": "invent",
+    "level": 9,
+    "translation": "inventer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/invent.mp3"
+  },
+  {
+    "name": "cotton",
+    "level": 9,
+    "translation": "coton",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/cotton.mp3"
+  },
+  {
+    "name": "born",
+    "level": 9,
+    "translation": "né",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/born.mp3"
+  },
+  {
+    "name": "determine",
+    "level": 9,
+    "translation": "déterminer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/determine.mp3"
+  },
+  {
+    "name": "quart",
+    "level": 9,
+    "translation": "quart",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/quart.mp3"
+  },
+  {
+    "name": "nine",
+    "level": 9,
+    "translation": "neuf",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/nine.mp3"
+  },
+  {
+    "name": "truck",
+    "level": 9,
+    "translation": "camion",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/truck.mp3"
+  },
+  {
+    "name": "noise",
+    "level": 9,
+    "translation": "bruit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/noise.mp3"
+  },
+  {
+    "name": "level",
+    "level": 9,
+    "translation": "niveau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/level.mp3"
+  },
+  {
+    "name": "chance",
+    "level": 9,
+    "translation": "chance",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/chance.mp3"
+  },
+  {
+    "name": "gather",
+    "level": 9,
+    "translation": "rassembler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gather.mp3"
+  },
+  {
+    "name": "shop",
+    "level": 9,
+    "translation": "magasin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shop.mp3"
+  },
+  {
+    "name": "stretch",
+    "level": 9,
+    "translation": "étirer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/stretch.mp3"
+  },
+  {
+    "name": "throw",
+    "level": 9,
+    "translation": "jeter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/throw.mp3"
+  },
+  {
+    "name": "shine",
+    "level": 9,
+    "translation": "briller",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shine.mp3"
+  },
+  {
+    "name": "property",
+    "level": 9,
+    "translation": "propriété",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/property.mp3"
+  },
+  {
+    "name": "column",
+    "level": 9,
+    "translation": "colonne",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/column.mp3"
+  },
+  {
+    "name": "molecule",
+    "level": 9,
+    "translation": "molécule",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/molecule.mp3"
+  },
+  {
+    "name": "select",
+    "level": 9,
+    "translation": "sélectionner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/select.mp3"
+  },
+  {
+    "name": "wrong",
+    "level": 9,
+    "translation": "faux",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/wrong.mp3"
+  },
+  {
+    "name": "gray",
+    "level": 9,
+    "translation": "gris",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/gray.mp3"
+  },
+  {
+    "name": "repeat",
+    "level": 9,
+    "translation": "répéter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/repeat.mp3"
+  },
+  {
+    "name": "require",
+    "level": 9,
+    "translation": "exiger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/require.mp3"
+  },
+  {
+    "name": "broad",
+    "level": 9,
+    "translation": "large",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/broad.mp3"
+  },
+  {
+    "name": "prepare",
+    "level": 9,
+    "translation": "préparer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/prepare.mp3"
+  },
+  {
+    "name": "salt",
+    "level": 9,
+    "translation": "sel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/salt.mp3"
+  },
+  {
+    "name": "nose",
+    "level": 9,
+    "translation": "nez",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/nose.mp3"
+  },
+  {
+    "name": "plural",
+    "level": 9,
+    "translation": "pluriel",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/plural.mp3"
+  },
+  {
+    "name": "anger",
+    "level": 9,
+    "translation": "colère",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/anger.mp3"
+  },
+  {
+    "name": "claim",
+    "level": 9,
+    "translation": "revendiquer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/claim.mp3"
+  },
+  {
+    "name": "continent",
+    "level": 9,
+    "translation": "continent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/continent.mp3"
+  },
+  {
+    "name": "oxygen",
+    "level": 9,
+    "translation": "oxygène",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/oxygen.mp3"
+  },
+  {
+    "name": "sugar",
+    "level": 9,
+    "translation": "sucre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sugar.mp3"
+  },
+  {
+    "name": "death",
+    "level": 9,
+    "translation": "mort",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/death.mp3"
+  },
+  {
+    "name": "pretty",
+    "level": 10,
+    "translation": "joli",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pretty.mp3"
+  },
+  {
+    "name": "skill",
+    "level": 10,
+    "translation": "compétence",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/skill.mp3"
+  },
+  {
+    "name": "women",
+    "level": 10,
+    "translation": "femmes",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/women.mp3"
+  },
+  {
+    "name": "season",
+    "level": 10,
+    "translation": "saison",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/season.mp3"
+  },
+  {
+    "name": "solution",
+    "level": 10,
+    "translation": "solution",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/solution.mp3"
+  },
+  {
+    "name": "magnet",
+    "level": 10,
+    "translation": "aimant",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/magnet.mp3"
+  },
+  {
+    "name": "silver",
+    "level": 10,
+    "translation": "argent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/silver.mp3"
+  },
+  {
+    "name": "thank",
+    "level": 10,
+    "translation": "merci",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/thank.mp3"
+  },
+  {
+    "name": "branch",
+    "level": 10,
+    "translation": "branche",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/branch.mp3"
+  },
+  {
+    "name": "match",
+    "level": 10,
+    "translation": "correspondre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/match.mp3"
+  },
+  {
+    "name": "suffix",
+    "level": 10,
+    "translation": "suffixe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/suffix.mp3"
+  },
+  {
+    "name": "especially",
+    "level": 10,
+    "translation": "surtout",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/especially.mp3"
+  },
+  {
+    "name": "fig",
+    "level": 10,
+    "translation": "figue",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fig.mp3"
+  },
+  {
+    "name": "afraid",
+    "level": 10,
+    "translation": "avoir peur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/afraid.mp3"
+  },
+  {
+    "name": "huge",
+    "level": 10,
+    "translation": "énorme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/huge.mp3"
+  },
+  {
+    "name": "sister",
+    "level": 10,
+    "translation": "sœur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sister.mp3"
+  },
+  {
+    "name": "steel",
+    "level": 10,
+    "translation": "acier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/steel.mp3"
+  },
+  {
+    "name": "discuss",
+    "level": 10,
+    "translation": "discuter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/discuss.mp3"
+  },
+  {
+    "name": "forward",
+    "level": 10,
+    "translation": "avancer",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/forward.mp3"
+  },
+  {
+    "name": "similar",
+    "level": 10,
+    "translation": "similaire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/similar.mp3"
+  },
+  {
+    "name": "guide",
+    "level": 10,
+    "translation": "guider",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/guide.mp3"
+  },
+  {
+    "name": "experience",
+    "level": 10,
+    "translation": "expérience",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/experience.mp3"
+  },
+  {
+    "name": "score",
+    "level": 10,
+    "translation": "score",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/score.mp3"
+  },
+  {
+    "name": "apple",
+    "level": 10,
+    "translation": "pomme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/apple.mp3"
+  },
+  {
+    "name": "bought",
+    "level": 10,
+    "translation": "acheté",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bought.mp3"
+  },
+  {
+    "name": "led",
+    "level": 10,
+    "translation": "conduit",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/led.mp3"
+  },
+  {
+    "name": "pitch",
+    "level": 10,
+    "translation": "pitch",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/pitch.mp3"
+  },
+  {
+    "name": "coat",
+    "level": 10,
+    "translation": "manteau",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/coat.mp3"
+  },
+  {
+    "name": "mass",
+    "level": 10,
+    "translation": "masse",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/mass.mp3"
+  },
+  {
+    "name": "card",
+    "level": 10,
+    "translation": "carte",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/card.mp3"
+  },
+  {
+    "name": "band",
+    "level": 10,
+    "translation": "groupe",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/band.mp3"
+  },
+  {
+    "name": "rope",
+    "level": 10,
+    "translation": "corde",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/rope.mp3"
+  },
+  {
+    "name": "slip",
+    "level": 10,
+    "translation": "glisser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/slip.mp3"
+  },
+  {
+    "name": "win",
+    "level": 10,
+    "translation": "gagner",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/win.mp3"
+  },
+  {
+    "name": "dream",
+    "level": 10,
+    "translation": "rêve",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dream.mp3"
+  },
+  {
+    "name": "evening",
+    "level": 10,
+    "translation": "soir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/evening.mp3"
+  },
+  {
+    "name": "condition",
+    "level": 10,
+    "translation": "condition",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/condition.mp3"
+  },
+  {
+    "name": "feed",
+    "level": 10,
+    "translation": "nourrir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/feed.mp3"
+  },
+  {
+    "name": "tool",
+    "level": 10,
+    "translation": "outil",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/tool.mp3"
+  },
+  {
+    "name": "total",
+    "level": 10,
+    "translation": "total",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/total.mp3"
+  },
+  {
+    "name": "basic",
+    "level": 10,
+    "translation": "de base",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/basic.mp3"
+  },
+  {
+    "name": "smell",
+    "level": 10,
+    "translation": "sentir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/smell.mp3"
+  },
+  {
+    "name": "valley",
+    "level": 10,
+    "translation": "vallée",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/valley.mp3"
+  },
+  {
+    "name": "nor",
+    "level": 10,
+    "translation": "ni",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/nor.mp3"
+  },
+  {
+    "name": "double",
+    "level": 10,
+    "translation": "double",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/double.mp3"
+  },
+  {
+    "name": "seat",
+    "level": 10,
+    "translation": "siège",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/seat.mp3"
+  },
+  {
+    "name": "arrive",
+    "level": 10,
+    "translation": "arriver",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/arrive.mp3"
+  },
+  {
+    "name": "master",
+    "level": 10,
+    "translation": "maître",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/master.mp3"
+  },
+  {
+    "name": "track",
+    "level": 10,
+    "translation": "piste",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/track.mp3"
+  },
+  {
+    "name": "parent",
+    "level": 10,
+    "translation": "parent",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/parent.mp3"
+  },
+  {
+    "name": "shore",
+    "level": 10,
+    "translation": "rivage",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shore.mp3"
+  },
+  {
+    "name": "division",
+    "level": 10,
+    "translation": "division",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/division.mp3"
+  },
+  {
+    "name": "sheet",
+    "level": 10,
+    "translation": "feuille",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/sheet.mp3"
+  },
+  {
+    "name": "substance",
+    "level": 10,
+    "translation": "substance",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/substance.mp3"
+  },
+  {
+    "name": "favor",
+    "level": 10,
+    "translation": "faveur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/favor.mp3"
+  },
+  {
+    "name": "connect",
+    "level": 10,
+    "translation": "connecter",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/connect.mp3"
+  },
+  {
+    "name": "post",
+    "level": 10,
+    "translation": "publier",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/post.mp3"
+  },
+  {
+    "name": "spend",
+    "level": 10,
+    "translation": "dépenser",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/spend.mp3"
+  },
+  {
+    "name": "chord",
+    "level": 10,
+    "translation": "accord",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/chord.mp3"
+  },
+  {
+    "name": "fat",
+    "level": 10,
+    "translation": "graisse",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/fat.mp3"
+  },
+  {
+    "name": "glad",
+    "level": 10,
+    "translation": "content",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/glad.mp3"
+  },
+  {
+    "name": "original",
+    "level": 10,
+    "translation": "original",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/original.mp3"
+  },
+  {
+    "name": "share",
+    "level": 10,
+    "translation": "partager",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/share.mp3"
+  },
+  {
+    "name": "station",
+    "level": 10,
+    "translation": "station",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/station.mp3"
+  },
+  {
+    "name": "dad",
+    "level": 10,
+    "translation": "papa",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dad.mp3"
+  },
+  {
+    "name": "bread",
+    "level": 10,
+    "translation": "pain",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bread.mp3"
+  },
+  {
+    "name": "charge",
+    "level": 10,
+    "translation": "charger",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/charge.mp3"
+  },
+  {
+    "name": "proper",
+    "level": 10,
+    "translation": "approprié",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/proper.mp3"
+  },
+  {
+    "name": "bar",
+    "level": 10,
+    "translation": "barre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/bar.mp3"
+  },
+  {
+    "name": "offer",
+    "level": 10,
+    "translation": "offrir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/offer.mp3"
+  },
+  {
+    "name": "segment",
+    "level": 10,
+    "translation": "segment",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/segment.mp3"
+  },
+  {
+    "name": "slave",
+    "level": 10,
+    "translation": "esclave",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/slave.mp3"
+  },
+  {
+    "name": "duck",
+    "level": 10,
+    "translation": "canard",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/duck.mp3"
+  },
+  {
+    "name": "instant",
+    "level": 10,
+    "translation": "instantané",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/instant.mp3"
+  },
+  {
+    "name": "market",
+    "level": 10,
+    "translation": "marché",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/market.mp3"
+  },
+  {
+    "name": "degree",
+    "level": 10,
+    "translation": "degré",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/degree.mp3"
+  },
+  {
+    "name": "populate",
+    "level": 10,
+    "translation": "peupler",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/populate.mp3"
+  },
+  {
+    "name": "chick",
+    "level": 10,
+    "translation": "poussin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/chick.mp3"
+  },
+  {
+    "name": "dear",
+    "level": 10,
+    "translation": "cher",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/dear.mp3"
+  },
+  {
+    "name": "enemy",
+    "level": 10,
+    "translation": "ennemi",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/enemy.mp3"
+  },
+  {
+    "name": "reply",
+    "level": 10,
+    "translation": "répondre",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/reply.mp3"
+  },
+  {
+    "name": "drink",
+    "level": 10,
+    "translation": "boire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/drink.mp3"
+  },
+  {
+    "name": "occur",
+    "level": 10,
+    "translation": "se produire",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/occur.mp3"
+  },
+  {
+    "name": "support",
+    "level": 10,
+    "translation": "soutenir",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/support.mp3"
+  },
+  {
+    "name": "speech",
+    "level": 10,
+    "translation": "discours",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/speech.mp3"
+  },
+  {
+    "name": "nature",
+    "level": 10,
+    "translation": "nature",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/nature.mp3"
+  },
+  {
+    "name": "range",
+    "level": 10,
+    "translation": "gamme",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/range.mp3"
+  },
+  {
+    "name": "steam",
+    "level": 10,
+    "translation": "vapeur",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/steam.mp3"
+  },
+  {
+    "name": "motion",
+    "level": 10,
+    "translation": "mouvement",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/motion.mp3"
+  },
+  {
+    "name": "path",
+    "level": 10,
+    "translation": "chemin",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/path.mp3"
+  },
+  {
+    "name": "liquid",
+    "level": 10,
+    "translation": "liquide",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/liquid.mp3"
+  },
+  {
+    "name": "log",
+    "level": 10,
+    "translation": "bûche",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/log.mp3"
+  },
+  {
+    "name": "meant",
+    "level": 10,
+    "translation": "signifiait",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/meant.mp3"
+  },
+  {
+    "name": "quotient",
+    "level": 10,
+    "translation": "quotient",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/quotient.mp3"
+  },
+  {
+    "name": "teeth",
+    "level": 10,
+    "translation": "dents",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/teeth.mp3"
+  },
+  {
+    "name": "shell",
+    "level": 10,
+    "translation": "coquille",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/shell.mp3"
+  },
+  {
+    "name": "neck",
+    "level": 10,
+    "translation": "cou",
+    "audioUrl": "https://d1qx7pbj0dvboc.cloudfront.net/neck.mp3"
+  }
+]

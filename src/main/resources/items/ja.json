@@ -1,0 +1,7172 @@
+[
+  {
+    "name": "だ",
+    "translation": "(copule) être",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "する",
+    "translation": "faire",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "です",
+    "translation": "être (poli)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "いる",
+    "translation": "être (existence pour êtres animés)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "私",
+    "translation": "je / moi",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "ある",
+    "translation": "il y a / avoir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "こと",
+    "translation": "chose / fait",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "何",
+    "translation": "quoi",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "それ",
+    "translation": "cela / ça",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "なる",
+    "translation": "devenir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "この",
+    "translation": "ce / cette",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "これ",
+    "translation": "ceci / celui-ci",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "そう",
+    "translation": "ainsi / comme ça",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "言う",
+    "translation": "dire",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "彼",
+    "translation": "il / lui",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "どう",
+    "translation": "comment",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "いい",
+    "translation": "bon",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "人",
+    "translation": "personne / personne",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "あなた",
+    "translation": "vous / tu",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "俺",
+    "translation": "je (informel masculin)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "その",
+    "translation": "ce / celui-là",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "君",
+    "translation": "tu (informel)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "やる",
+    "translation": "faire / donner (familier)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "見る",
+    "translation": "voir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "行く",
+    "translation": "aller",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "いう",
+    "translation": "dire (variante)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "くれる",
+    "translation": "donner (à moi)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "できる",
+    "translation": "pouvoir / savoir faire",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "ここ",
+    "translation": "ici",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "お前",
+    "translation": "toi (rude)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "知る",
+    "translation": "savoir / connaître",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "来る",
+    "translation": "venir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "もう",
+    "translation": "déjà / encore",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "誰",
+    "translation": "qui",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "今",
+    "translation": "maintenant",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "者",
+    "translation": "personne / celui qui...",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "けど",
+    "translation": "mais (colloquial)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "彼女",
+    "translation": "elle / petite amie",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "僕",
+    "translation": "je (masculin, informel)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "あの",
+    "translation": "ce... / celui-là (loin)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "分かる",
+    "translation": "comprendre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "年",
+    "translation": "année",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "中",
+    "translation": "à l'intérieur / milieu",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "前",
+    "translation": "avant",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "時",
+    "translation": "temps / heure",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "聞く",
+    "translation": "écouter / demander",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "自分",
+    "translation": "soi-même",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "つく",
+    "translation": "attacher / arriver",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "持つ",
+    "translation": "tenir / posséder",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "どこ",
+    "translation": "où",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "そして",
+    "translation": "et puis",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "話",
+    "translation": "histoire / parole",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "そんな",
+    "translation": "tel / ainsi",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "出る",
+    "translation": "sortir / apparaître",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "必要",
+    "translation": "nécessaire",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "なん",
+    "translation": "quoi (colloquial)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "話す",
+    "translation": "parler",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "待つ",
+    "translation": "attendre",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "出す",
+    "translation": "sortir / donner",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "方",
+    "translation": "façon / direction",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "一",
+    "translation": "un",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "考える",
+    "translation": "penser",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "家",
+    "translation": "maison",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "死ぬ",
+    "translation": "mourir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "気",
+    "translation": "esprit / sentiment",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "時間",
+    "translation": "temps",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "ちょっと",
+    "translation": "un peu",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "本当",
+    "translation": "vrai",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "我々",
+    "translation": "nous",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "はい",
+    "translation": "oui",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "まだ",
+    "translation": "encore / toujours",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "くださる",
+    "translation": "donner (honorifique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "そこ",
+    "translation": "là",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "日",
+    "translation": "jour",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "世界",
+    "translation": "monde",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "良い",
+    "translation": "bon",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "みる",
+    "translation": "voir (variante)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "なぜ",
+    "translation": "pourquoi",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "使う",
+    "translation": "utiliser",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "大丈夫",
+    "translation": "ça va / sans problème",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "後",
+    "translation": "après",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "こんな",
+    "translation": "tel / comme ça",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "男",
+    "translation": "homme",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "他",
+    "translation": "autre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "手",
+    "translation": "main",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "仕事",
+    "translation": "travail",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "問題",
+    "translation": "problème",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "また",
+    "translation": "encore / de nouveau",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "同じ",
+    "translation": "même",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "入る",
+    "translation": "entrer",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "違う",
+    "translation": "différent",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "一緒",
+    "translation": "ensemble",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "会う",
+    "translation": "rencontrer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "様",
+    "translation": "manière / Mr/Mme (suff.)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "作る",
+    "translation": "faire / créer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "みたい",
+    "translation": "semble / comme",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "戻る",
+    "translation": "revenir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "今日",
+    "translation": "aujourd'hui",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "悪い",
+    "translation": "mauvais",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "見つける",
+    "translation": "trouver",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "子",
+    "translation": "enfant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "あんた",
+    "translation": "toi (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "みんな",
+    "translation": "tout le monde",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "すぐ",
+    "translation": "immédiatement",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "電話",
+    "translation": "téléphone / appel",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "しかし",
+    "translation": "cependant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "もし",
+    "translation": "si",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "人間",
+    "translation": "être humain",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "場所",
+    "translation": "endroit",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "なさる",
+    "translation": "faire (honorifique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "所",
+    "translation": "endroit",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "子供",
+    "translation": "enfant",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "力",
+    "translation": "force",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "上",
+    "translation": "au-dessus / haut",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "無い",
+    "translation": "ne pas y avoir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "こう",
+    "translation": "comme ça",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "呼ぶ",
+    "translation": "appeler",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "しまう",
+    "translation": "finir / (faire) par erreur",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ところ",
+    "translation": "endroit / moment",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "帰る",
+    "translation": "rentrer / revenir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "見える",
+    "translation": "être visible",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "入れる",
+    "translation": "mettre dedans",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "受ける",
+    "translation": "recevoir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ただ",
+    "translation": "seulement / juste",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "生きる",
+    "translation": "vivre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "あれ",
+    "translation": "là-bas / ça",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "よく",
+    "translation": "souvent / bien",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "金",
+    "translation": "argent / or",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "わけ",
+    "translation": "raison / motif",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "好き",
+    "translation": "aimer",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "少し",
+    "translation": "un peu",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "全て",
+    "translation": "tout",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "性",
+    "translation": "sexe / nature",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "車",
+    "translation": "voiture",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "先生",
+    "translation": "professeur",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "でる",
+    "translation": "sortir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "込む",
+    "translation": "être rempli / bondé",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "次",
+    "translation": "suivant",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "すむ",
+    "translation": "finir / vivre (verbe)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "もっと",
+    "translation": "plus",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "早い",
+    "translation": "rapide / tôt",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "分",
+    "translation": "minute / fraction",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "どんな",
+    "translation": "quel type de",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "もらう",
+    "translation": "recevoir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "とる",
+    "translation": "prendre",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "信ずる",
+    "translation": "croire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "教える",
+    "translation": "enseigner",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "関係",
+    "translation": "relation",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "間",
+    "translation": "entre / intervalle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "名前",
+    "translation": "nom",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "可能",
+    "translation": "possible",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "いつ",
+    "translation": "quand",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "始める",
+    "translation": "commencer",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "とても",
+    "translation": "très",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "意味",
+    "translation": "sens / signification",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "物",
+    "translation": "chose / objet",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "引く",
+    "translation": "tirer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "探す",
+    "translation": "chercher",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "助ける",
+    "translation": "aider",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "女",
+    "translation": "femme",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "度",
+    "translation": "fois / degré",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "いつも",
+    "translation": "toujours",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "食べる",
+    "translation": "manger",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "数",
+    "translation": "nombre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "新しい",
+    "translation": "nouveau",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "家族",
+    "translation": "famille",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "通り",
+    "translation": "rue",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "最後",
+    "translation": "dernier",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "女性",
+    "translation": "femme",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "情報",
+    "translation": "information",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "心",
+    "translation": "coeur / esprit",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "止める",
+    "translation": "arrêter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "連れる",
+    "translation": "emmener",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "心配する",
+    "translation": "s'inquiéter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "合う",
+    "translation": "convenir / rencontrer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "人々",
+    "translation": "gens",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "逃げる",
+    "translation": "fuir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "別",
+    "translation": "séparé / autre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "我",
+    "translation": "moi / nous (litt.)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "起きる",
+    "translation": "se réveiller / se produire",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "落ちる",
+    "translation": "tomber",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "立つ",
+    "translation": "se tenir / se lever",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "こっち",
+    "translation": "par ici / ce côté",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "方法",
+    "translation": "méthode",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "理由",
+    "translation": "raison",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "見せる",
+    "translation": "montrer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "オレ",
+    "translation": "je (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "研究",
+    "translation": "recherche",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "忘れる",
+    "translation": "oublier",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "最初",
+    "translation": "le début",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "守る",
+    "translation": "protéger",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "すごい",
+    "translation": "formidable / incroyable",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ずっと",
+    "translation": "tout le temps / continuellement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "二",
+    "translation": "deux",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "事件",
+    "translation": "incident / affaire",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "頼む",
+    "translation": "demander / s'il vous plaît",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "一人",
+    "translation": "une personne / seul",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "続ける",
+    "translation": "continuer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "つまり",
+    "translation": "en d'autres termes",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "体",
+    "translation": "corps",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "警察",
+    "translation": "police",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "人生",
+    "translation": "vie (humaine)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "国",
+    "translation": "pays",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "書く",
+    "translation": "écrire",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "頭",
+    "translation": "tête",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "写真",
+    "translation": "photo",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "顔",
+    "translation": "visage",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "得る",
+    "translation": "obtenir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "全部",
+    "translation": "tout",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "変わる",
+    "translation": "changer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "まま",
+    "translation": "tel quel",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "終わる",
+    "translation": "finir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "上げる",
+    "translation": "donner / élever",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "部屋",
+    "translation": "pièce / chambre",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "多く",
+    "translation": "beaucoup",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "送る",
+    "translation": "envoyer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "着く",
+    "translation": "arriver",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "娘",
+    "translation": "fille (d'une famille)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "先",
+    "translation": "avant / précédent",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "本",
+    "translation": "livre",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "父",
+    "translation": "père",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "理解する",
+    "translation": "comprendre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "切る",
+    "translation": "couper",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "あいつ",
+    "translation": "ce type (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "覚える",
+    "translation": "se souvenir / mémoriser",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "息子",
+    "translation": "fils",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "結婚する",
+    "translation": "se marier",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ママ",
+    "translation": "maman",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "よし",
+    "translation": "très bien / d'accord",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "飲む",
+    "translation": "boire",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "会社",
+    "translation": "entreprise",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "実際",
+    "translation": "en réalité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "官",
+    "translation": "officiel / officiel (pref.)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "こちら",
+    "translation": "ici / ce côté (poli)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "友達",
+    "translation": "ami",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "バカ",
+    "translation": "idiot / stupide",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "パパ",
+    "translation": "papa",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "変える",
+    "translation": "changer (trans.)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "願う",
+    "translation": "souhaiter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "調べる",
+    "translation": "examiner / rechercher",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "学校",
+    "translation": "école",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "重要",
+    "translation": "important",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "追う",
+    "translation": "poursuivre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "捜査",
+    "translation": "enquête",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "下",
+    "translation": "sous / en bas",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "どういう",
+    "translation": "quel genre de",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "是",
+    "translation": "correct / oui (class.)",
+    "level": 6,
+    "audioURL": ""
+  },
+  {
+    "name": "あと",
+    "translation": "après / plus tard",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "乗る",
+    "translation": "monter / prendre (transport)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "外",
+    "translation": "extérieur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "くらい",
+    "translation": "environ / à peu près",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "かかる",
+    "translation": "prendre (temps, coût)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "愛する",
+    "translation": "aimer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ドル",
+    "translation": "dollar",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "準備",
+    "translation": "préparation",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "買う",
+    "translation": "acheter",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "下さる",
+    "translation": "donner (honorifique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "言葉",
+    "translation": "mot / langue",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "回",
+    "translation": "fois (compteur)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "なに",
+    "translation": "quoi",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "願い",
+    "translation": "souhait",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "無理",
+    "translation": "impossible / déraisonnable",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "起こる",
+    "translation": "se produire",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "強い",
+    "translation": "fort",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "約束する",
+    "translation": "promettre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "確か",
+    "translation": "certain / sûr",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "連絡",
+    "translation": "contact",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "働く",
+    "translation": "travailler",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "大きな",
+    "translation": "grand",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "素晴らしい",
+    "translation": "merveilleux",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "一度",
+    "translation": "une fois",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "相手",
+    "translation": "partenaire / adversaire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "夢",
+    "translation": "rêve",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "安全",
+    "translation": "sécurité / sûr",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "明日",
+    "translation": "demain",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "危険",
+    "translation": "danger",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "やつ",
+    "translation": "type / gars (familier)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "うまい",
+    "translation": "délicieux / habile",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "失う",
+    "translation": "perdre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "犯人",
+    "translation": "criminel / coupable",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "伝える",
+    "translation": "transmettre / informer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "おる",
+    "translation": "être (familier / dialect)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "機",
+    "translation": "machine / opportunité (préfix)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "返す",
+    "translation": "rendre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "楽しい",
+    "translation": "amusant",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "こいつ",
+    "translation": "ce gars (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "絶対",
+    "translation": "absolument",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "どの",
+    "translation": "lequel",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "質問",
+    "translation": "question",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "すぎる",
+    "translation": "trop (suffix)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "動く",
+    "translation": "bouger",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "嘘",
+    "translation": "mensonge",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "説明する",
+    "translation": "expliquer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "仲間",
+    "translation": "compagnon / camarade",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "行う",
+    "translation": "effectuer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "怖い",
+    "translation": "effrayant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "結果",
+    "translation": "résultat",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "技術",
+    "translation": "technique / technologie",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "夜",
+    "translation": "nuit",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "存在",
+    "translation": "existence",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "対する",
+    "translation": "envers / contre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "まず",
+    "translation": "d'abord",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "室",
+    "translation": "pièce / chambre (sino-japonais)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "会",
+    "translation": "rencontre / réunion (kanji)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "月",
+    "translation": "lune / mois",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "初めて",
+    "translation": "pour la première fois",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "命",
+    "translation": "vie",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "最高",
+    "translation": "le meilleur / suprême",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "置く",
+    "translation": "poser / mettre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "残る",
+    "translation": "rester",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "水",
+    "translation": "eau",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "長い",
+    "translation": "long",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "大きい",
+    "translation": "grand",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "一番",
+    "translation": "le plus / numéro un",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "状況",
+    "translation": "situation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "どれ",
+    "translation": "lequel",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "高い",
+    "translation": "haut / cher",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "計画",
+    "translation": "plan",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "読む",
+    "translation": "lire",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "病院",
+    "translation": "hôpital",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "友人",
+    "translation": "ami",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "学",
+    "translation": "apprendre / étude (kanji)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "確認",
+    "translation": "confirmation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "向かう",
+    "translation": "se diriger vers",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "二人",
+    "translation": "deux personnes",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "聞こえる",
+    "translation": "être entendu",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "科学",
+    "translation": "science",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "声",
+    "translation": "voix",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "部",
+    "translation": "section / département",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "生活",
+    "translation": "vie quotidienne",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "用",
+    "translation": "usage / utilité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "死",
+    "translation": "mort",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "簡単",
+    "translation": "facile / simple",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "場合",
+    "translation": "cas / situation",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "興味",
+    "translation": "intérêt",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "行動",
+    "translation": "action / comportement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "きっと",
+    "translation": "sûrement",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "全員",
+    "translation": "tous les membres",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ほしい",
+    "translation": "vouloir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ちゃんと",
+    "translation": "correctement / proprement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "社会",
+    "translation": "société",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "名",
+    "translation": "nom / réputation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "言える",
+    "translation": "pouvoir dire",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "チーム",
+    "translation": "équipe",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "生",
+    "translation": "vivant / brut / cru",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "番",
+    "translation": "tour / numéro",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "決める",
+    "translation": "décider",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "システム",
+    "translation": "système",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "どうぞ",
+    "translation": "s'il vous plaît / je vous en prie",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "寝る",
+    "translation": "dormir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "深い",
+    "translation": "profond",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "非常",
+    "translation": "extrêmement / urgence",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "開ける",
+    "translation": "ouvrir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "道",
+    "translation": "route / chemin",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "去る",
+    "translation": "partir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "船",
+    "translation": "bateau",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "感ずる",
+    "translation": "ressentir (archaïque)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "正しい",
+    "translation": "correct",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "点",
+    "translation": "point",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "見つかる",
+    "translation": "être trouvé",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "証拠",
+    "translation": "preuve",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "離れる",
+    "translation": "s'éloigner",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "自身",
+    "translation": "soi-même",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "発見",
+    "translation": "découverte",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "間違い",
+    "translation": "erreur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "長",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "宇宙",
+    "translation": "espace / univers",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "解決",
+    "translation": "résoudre / solution",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "起こす",
+    "translation": "provoquer / réveiller",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "考え",
+    "translation": "pensée",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "飛ぶ",
+    "translation": "voler",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "父親",
+    "translation": "père",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "自由",
+    "translation": "liberté",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "街",
+    "translation": "ville / quartier",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "多い",
+    "translation": "nombreux",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "選ぶ",
+    "translation": "choisir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "痛い",
+    "translation": "douloureux",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "最も",
+    "translation": "le plus",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "母",
+    "translation": "mère",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "昔",
+    "translation": "autrefois",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "大事",
+    "translation": "important",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "患者",
+    "translation": "patient (médecine)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "脳",
+    "translation": "cerveau",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "一体",
+    "translation": "qu'est-ce que ... (étonnement)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "急ぐ",
+    "translation": "se dépêcher",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "敵",
+    "translation": "ennemi",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "週間",
+    "translation": "semaine",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "気持ち",
+    "translation": "sentiment / humeur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "座る",
+    "translation": "s'asseoir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "大学",
+    "translation": "université",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "捨てる",
+    "translation": "jeter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "渡す",
+    "translation": "remettre / donner",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "大変",
+    "translation": "dur / sérieux",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "感謝する",
+    "translation": "remercier",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "野郎",
+    "translation": "salaud / type (vulgaire)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "付く",
+    "translation": "être attaché / arriver",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "普通",
+    "translation": "normal / ordinaire",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "住む",
+    "translation": "habiter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "付ける",
+    "translation": "attacher / appliquer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "消える",
+    "translation": "disparaître",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "失礼",
+    "translation": "impoli / excusez-moi",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "隠す",
+    "translation": "cacher",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "最近",
+    "translation": "récemment",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "件",
+    "translation": "affaire / cas",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "カード",
+    "translation": "carte",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "頑張る",
+    "translation": "se donner à fond",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "妻",
+    "translation": "épouse",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "データ",
+    "translation": "données",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "救う",
+    "translation": "sauver",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "責任",
+    "translation": "responsabilité",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "今度",
+    "translation": "cette fois / la prochaine fois",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "員",
+    "translation": "membre / personnel (suffix)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "ゲーム",
+    "translation": "jeu",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "生まれる",
+    "translation": "naître",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "たくさん",
+    "translation": "beaucoup",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "全く",
+    "translation": "complètement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "小さな",
+    "translation": "petit",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "状態",
+    "translation": "état / condition",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "戻す",
+    "translation": "remettre / restituer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "感じ",
+    "translation": "sensation / feeling",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "音",
+    "translation": "son",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "十分",
+    "translation": "suffisant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "さて",
+    "translation": "eh bien / maintenant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "元気",
+    "translation": "en forme / santé",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "終わり",
+    "translation": "fin",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "幸せ",
+    "translation": "heureux / bonheur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "三",
+    "translation": "trois",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "色",
+    "translation": "couleur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "年間",
+    "translation": "annuel",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "面白い",
+    "translation": "intéressant / drôle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "映画",
+    "translation": "film",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "あんな",
+    "translation": "comme ça (loin)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "口",
+    "translation": "bouche",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ひどい",
+    "translation": "terrible / sévère",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "関する",
+    "translation": "concernant",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "調査",
+    "translation": "investigation / étude",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "過ぎる",
+    "translation": "passer / dépasser",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "まさか",
+    "translation": "impossible / pas possible",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "政府",
+    "translation": "gouvernement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "経験",
+    "translation": "expérience",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "現在",
+    "translation": "actuel / présent",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "被害",
+    "translation": "dommages / préjudice",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "元",
+    "translation": "origine / ancien",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "学ぶ",
+    "translation": "apprendre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "残す",
+    "translation": "laisser / laisser derrière",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "携帯",
+    "translation": "portable / téléphone mobile",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "払う",
+    "translation": "payer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "時代",
+    "translation": "ère / époque",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "場",
+    "translation": "lieu / emplacement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "今夜",
+    "translation": "ce soir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "上がる",
+    "translation": "monter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "貴方",
+    "translation": "vous (poli)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "博士",
+    "translation": "docteur (PhD)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "未来",
+    "translation": "futur",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "王",
+    "translation": "roi",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "やっぱり",
+    "translation": "comme prévu / après tout",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "始まる",
+    "translation": "commencer (intr.)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "協力",
+    "translation": "coopération",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "変",
+    "translation": "étrange / changement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "刑事",
+    "translation": "détective / officier (police)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "母親",
+    "translation": "mère",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "薬",
+    "translation": "médicament",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "歩く",
+    "translation": "marcher",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "似る",
+    "translation": "ressembler",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "想像",
+    "translation": "imaginer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "黙る",
+    "translation": "se taire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "光",
+    "translation": "lumière",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "組織",
+    "translation": "organisation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "わたし",
+    "translation": "je / moi (poli)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "弁護",
+    "translation": "défense (law)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "開く",
+    "translation": "ouvrir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "選択",
+    "translation": "choix",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "完全",
+    "translation": "complet / parfait",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "答える",
+    "translation": "répondre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "怒る",
+    "translation": "se fâcher",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "逮捕する",
+    "translation": "arrêter (par la police)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "昨日",
+    "translation": "hier",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "影響",
+    "translation": "influence / impact",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "代",
+    "translation": "ère /代=代? (substitute)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "かなり",
+    "translation": "assez / considérablement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "記録",
+    "translation": "enregistrement / record",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "破壊",
+    "translation": "destruction",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "売る",
+    "translation": "vendre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "着る",
+    "translation": "porter (vêtements)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "許す",
+    "translation": "permettre / pardonner",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "犯罪",
+    "translation": "crime",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "盗む",
+    "translation": "voler (steal)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "血",
+    "translation": "sang",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "戦争",
+    "translation": "guerre",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "成功",
+    "translation": "succès",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "利用する",
+    "translation": "utiliser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "難しい",
+    "translation": "difficile",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "カメラ",
+    "translation": "caméra",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "秘密",
+    "translation": "secret",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "風",
+    "translation": "vent",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ドア",
+    "translation": "porte",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "気づく",
+    "translation": "remarquer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "報告",
+    "translation": "rapport / signaler",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "客",
+    "translation": "client / invité",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "現れる",
+    "translation": "apparaître",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "残念",
+    "translation": "dommage / regrettable",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "さらに",
+    "translation": "en outre / de plus",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "例",
+    "translation": "exemple",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "活動",
+    "translation": "activité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "記憶",
+    "translation": "mémoire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "治療",
+    "translation": "traitement",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "過去",
+    "translation": "passé",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "愛",
+    "translation": "amour",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "おかしい",
+    "translation": "drôle / étrange",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "させる",
+    "translation": "faire faire (causer)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "真実",
+    "translation": "vérité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "少ない",
+    "translation": "peu",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "価値",
+    "translation": "valeur",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ひと",
+    "translation": "personne",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "捕まえる",
+    "translation": "attraper",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "認める",
+    "translation": "reconnaître / admettre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "真",
+    "translation": "vrai",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "おまえ",
+    "translation": "toi (rude)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "ぐらい",
+    "translation": "environ / à peu près",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "現実",
+    "translation": "réalité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "目的",
+    "translation": "objectif",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "効果",
+    "translation": "effet",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "役",
+    "translation": "rôle",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "内",
+    "translation": "intérieur",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "生物",
+    "translation": "organisme / être vivant",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "エネルギー",
+    "translation": "énergie",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "大統領",
+    "translation": "président",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "求める",
+    "translation": "demander / rechercher",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "町",
+    "translation": "ville / bourg",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "必ず",
+    "translation": "certainement / sans faute",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "たぶん",
+    "translation": "peut-être",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "犬",
+    "translation": "chien",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "レベル",
+    "translation": "niveau",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "法",
+    "translation": "loi",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "さっき",
+    "translation": "il y a un moment",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "変化",
+    "translation": "changement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "近く",
+    "translation": "près / proximité",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "事実",
+    "translation": "fait",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "男性",
+    "translation": "homme / mâle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "能力",
+    "translation": "capacité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "朝",
+    "translation": "matin",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "組む",
+    "translation": "assembler / se lier",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "事故",
+    "translation": "accident",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "若い",
+    "translation": "jeune",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "動物",
+    "translation": "animal",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "走る",
+    "translation": "courir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "間違う",
+    "translation": "se tromper",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "装置",
+    "translation": "appareil",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "精神",
+    "translation": "esprit / mental",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "進む",
+    "translation": "avancer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "飛行",
+    "translation": "vol (flight)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "全然",
+    "translation": "pas du tout",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "直す",
+    "translation": "réparer / corriger",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "以外",
+    "translation": "à part / excepté",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "張る",
+    "translation": "étirer / coller",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "答え",
+    "translation": "réponse",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "美しい",
+    "translation": "beau / belle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "突く",
+    "translation": "enfoncer / piquer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "やがる",
+    "translation": "(suffixrude) faire",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "とおり",
+    "translation": "comme / selon",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "大切",
+    "translation": "important / précieux",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "自然",
+    "translation": "nature / naturel",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "共",
+    "translation": "ensemble /共に = ensemble",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "海",
+    "translation": "mer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "無",
+    "translation": "rien / absence",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "姿",
+    "translation": "apparence / silhouette",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "特別",
+    "translation": "spécial",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "示す",
+    "translation": "montrer / indiquer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "医者",
+    "translation": "médecin",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "手伝う",
+    "translation": "aider",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "打つ",
+    "translation": "frapper / taper",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "互い",
+    "translation": "mutuellement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "書",
+    "translation": "écrire / écriture",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "失敗",
+    "translation": "échec",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "命令",
+    "translation": "ordre / commandement",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "今回",
+    "translation": "cette fois",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "勝つ",
+    "translation": "gagner",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "地",
+    "translation": "terre / sol",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "罪",
+    "translation": "péché / crime",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "経済",
+    "translation": "économie",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "警官",
+    "translation": "agent de police",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "止まる",
+    "translation": "s'arrêter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "違い",
+    "translation": "différence",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "等",
+    "translation": "etc / égal",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "例えば",
+    "translation": "par exemple",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "任せる",
+    "translation": "confier",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "冗談",
+    "translation": "blague",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "チャンス",
+    "translation": "chance / opportunité",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "なり",
+    "translation": "devenir / sembler",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "線",
+    "translation": "ligne",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "女の子",
+    "translation": "fille",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "形",
+    "translation": "forme",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "環境",
+    "translation": "environnement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "気分",
+    "translation": "humeur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "生徒",
+    "translation": "élève",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "監視",
+    "translation": "surveillance",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "あそこ",
+    "translation": "là-bas",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "回る",
+    "translation": "tourner",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "紹介する",
+    "translation": "présenter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "さま",
+    "translation": "etat / façon / Mr.",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "移動する",
+    "translation": "se déplacer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "壁",
+    "translation": "mur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "困る",
+    "translation": "être embêté / avoir un problème",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "手術",
+    "translation": "chirurgie",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "唯一",
+    "translation": "unique",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "後ろ",
+    "translation": "derrière",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "妹",
+    "translation": "sœur cadette",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "実験",
+    "translation": "expérience (scientifique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "毎日",
+    "translation": "chaque jour",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "用意",
+    "translation": "préparation",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "都市",
+    "translation": "métropole / ville",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "鍵",
+    "translation": "clé",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "開発",
+    "translation": "développement",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "おかげ",
+    "translation": "grâce à",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "テレビ",
+    "translation": "télévision",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "食う",
+    "translation": "manger (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "種",
+    "translation": "espèce / type",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "現場",
+    "translation": "site / scène (d'un crime)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "一部",
+    "translation": "une partie",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "番号",
+    "translation": "numéro",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "子ども",
+    "translation": "enfant",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "身",
+    "translation": "corps / soi",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "細胞",
+    "translation": "cellule",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "運転",
+    "translation": "conduite",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "続く",
+    "translation": "continuer (intr.)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "以前",
+    "translation": "auparavant",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "主義",
+    "translation": "doctrine / -isme",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "島",
+    "translation": "île",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "服",
+    "translation": "vêtements",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "嬉しい",
+    "translation": "heureux / content",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "よろしく",
+    "translation": "bien à vous / s'il vous plaît",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "枚",
+    "translation": "compteur (feuilles)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "参加",
+    "translation": "participation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "助け",
+    "translation": "aide",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "信用",
+    "translation": "confiance",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "裁判",
+    "translation": "procès / tribunal",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "語",
+    "translation": "langue / mot (suffix)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "特に",
+    "translation": "surtout / particulierement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "夫",
+    "translation": "mari",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "奪う",
+    "translation": "arracher / voler",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "式",
+    "translation": "cérémonie / formule",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "モンスター",
+    "translation": "monstre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "個人",
+    "translation": "individu / personne",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "泣く",
+    "translation": "pleurer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "社長",
+    "translation": "président d'entreprise",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "原因",
+    "translation": "cause",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "弟",
+    "translation": "frère cadet",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "信頼",
+    "translation": "confiance",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "どっち",
+    "translation": "lequel / lequel des deux",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "そいつ",
+    "translation": "ce type (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "武器",
+    "translation": "arme",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "音楽",
+    "translation": "musique",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "済む",
+    "translation": "se terminer / suffire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "消す",
+    "translation": "effacer / éteindre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "小さい",
+    "translation": "petit",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "嫌い",
+    "translation": "détester",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "申し訳",
+    "translation": "excuse / regret",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "関わる",
+    "translation": "être impliqué",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "山",
+    "translation": "montagne",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "まるで",
+    "translation": "comme si",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "部分",
+    "translation": "partie",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "しっかり",
+    "translation": "fermement / correctement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "両親",
+    "translation": "parents",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "保護",
+    "translation": "protection",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "先輩",
+    "translation": "senpai / aîné",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "州",
+    "translation": "état (province)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "太陽",
+    "translation": "soleil",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "押す",
+    "translation": "pousser / presser",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "希望",
+    "translation": "espoir / souhait",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "軍",
+    "translation": "armée",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "反応",
+    "translation": "réaction",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "気付く",
+    "translation": "remarquer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "決まる",
+    "translation": "être décidé",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "人物",
+    "translation": "personnalité / personnage",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "貸す",
+    "translation": "prêter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "人類",
+    "translation": "humanité",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "成長",
+    "translation": "croissance",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "邪魔",
+    "translation": "gêne / obstruction",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "マジ",
+    "translation": "sérieux / vraiment (argot)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "全体",
+    "translation": "ensemble / totalité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "笑う",
+    "translation": "rire",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "描く",
+    "translation": "dessiner / peindre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "本物",
+    "translation": "véritable / authentique",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "政治",
+    "translation": "politique",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "駄目",
+    "translation": "inutile / pas bon",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "意識",
+    "translation": "conscience",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "木",
+    "translation": "arbre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "本気",
+    "translation": "sérieux",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "限り",
+    "translation": "tant que / limite",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "運ぶ",
+    "translation": "transporter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "医療",
+    "translation": "soins médicaux",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "花",
+    "translation": "fleur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "抜ける",
+    "translation": "s'enlever / sortir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ビデオ",
+    "translation": "vidéo",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "高校",
+    "translation": "lycée",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "落とす",
+    "translation": "laisser tomber / laisser tomber (trans)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "期待",
+    "translation": "attente / espoir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "遺伝",
+    "translation": "génétique",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "メール",
+    "translation": "email",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "教育",
+    "translation": "éducation",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "遊ぶ",
+    "translation": "jouer",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "管理",
+    "translation": "gestion / management",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "注意",
+    "translation": "attention / prudence",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "無事",
+    "translation": "sain et sauf",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "過ごす",
+    "translation": "passer (du temps)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "予定",
+    "translation": "plan / programme",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "降りる",
+    "translation": "descendre / sortir (transport)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ドラゴン",
+    "translation": "dragon",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "使える",
+    "translation": "pouvoir être utilisé",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "取引",
+    "translation": "transaction / affaire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "正直",
+    "translation": "honnête",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "秒",
+    "translation": "seconde",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "どちら",
+    "translation": "lequel / lequel des deux",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "不明",
+    "translation": "inconnu",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "犠牲",
+    "translation": "sacrifice",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "たった",
+    "translation": "seulement / à peine",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "傷",
+    "translation": "blessure",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "立てる",
+    "translation": "ériger / dresser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "号",
+    "translation": "numéro / signal",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "集める",
+    "translation": "rassembler / collecter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "歴史",
+    "translation": "histoire (historique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "決して",
+    "translation": "jamais (avec négation)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "品",
+    "translation": "article / marchandise",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "結局",
+    "translation": "finalement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "星",
+    "translation": "étoile",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "親",
+    "translation": "parent",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "楽しむ",
+    "translation": "profiter / prendre plaisir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "銀行",
+    "translation": "banque",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "当然",
+    "translation": "évidemment / naturel",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "突然",
+    "translation": "soudain",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "感情",
+    "translation": "émotion",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "証明",
+    "translation": "preuve / démonstration",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "料理",
+    "translation": "cuisine",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ボス",
+    "translation": "patron / chef",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "思える",
+    "translation": "sembler",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "亡くなる",
+    "translation": "mourir (poli)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "従う",
+    "translation": "suivre / obéir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ちょうど",
+    "translation": "juste / exactement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "館",
+    "translation": "bâtiment / manoir",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "無駄",
+    "translation": "inutile / gaspillage",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "提供する",
+    "translation": "fournir / offrir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "耳",
+    "translation": "oreille",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "負ける",
+    "translation": "perdre (match)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "明らか",
+    "translation": "clair / évident",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "魔法",
+    "translation": "magie",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "腕",
+    "translation": "bras / habileté",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "多分",
+    "translation": "probablement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "代わり",
+    "translation": "à la place / en remplacement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ロボット",
+    "translation": "robot",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "少年",
+    "translation": "garçon",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "古い",
+    "translation": "vieux / ancien",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "アイデア",
+    "translation": "idée",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "素敵",
+    "translation": "charmant / joli",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "結構",
+    "translation": "plutôt / suffisant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "あたし",
+    "translation": "je (féminin informel)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "爆発",
+    "translation": "explosion",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "地域",
+    "translation": "région",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "メッセージ",
+    "translation": "message",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "あらゆる",
+    "translation": "tous les / chaque",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "おそらく",
+    "translation": "probablement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "合わせる",
+    "translation": "assembler / coordonner",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "兄",
+    "translation": "frère aîné",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "連中",
+    "translation": "ces gens (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "感じる",
+    "translation": "ressentir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "デザイン",
+    "translation": "design",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "主人",
+    "translation": "maître / propriétaire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ビル",
+    "translation": "bâtiment / immeuble",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "瞬間",
+    "translation": "moment",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "傷つける",
+    "translation": "blesser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "閉じる",
+    "translation": "fermer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "隠れる",
+    "translation": "se cacher",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "空",
+    "translation": "ciel / vide",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "健康",
+    "translation": "santé",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "いくら",
+    "translation": "combien (coût)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "企業",
+    "translation": "entreprise / corporation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "いろいろ",
+    "translation": "divers / varié",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "専門",
+    "translation": "spécialité / domaine",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "感",
+    "translation": "sensation / impression",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "機能",
+    "translation": "fonctionnalité",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "戦い",
+    "translation": "combat / bataille",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ウソ",
+    "translation": "mensonge (colloq.)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "奥さん",
+    "translation": "épouse / madame",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "生命",
+    "translation": "vie (scientifique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "いっぱい",
+    "translation": "plein / beaucoup",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "円",
+    "translation": "yen / cercle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "映像",
+    "translation": "image / vidéo",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "リスト",
+    "translation": "liste",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "大人",
+    "translation": "adulte",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "忙しい",
+    "translation": "occupé",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "兄弟",
+    "translation": "frères et soeurs",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "借りる",
+    "translation": "emprunter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "動き",
+    "translation": "mouvement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "最悪",
+    "translation": "le pire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "赤ちゃん",
+    "translation": "bébé",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "向こう",
+    "translation": "l'autre côté / là-bas",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "要る",
+    "translation": "avoir besoin",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "完璧",
+    "translation": "parfait",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "機会",
+    "translation": "opportunité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "反対",
+    "translation": "opposé / contre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "任務",
+    "translation": "mission / tâche",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "喜ぶ",
+    "translation": "se réjouir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "テスト",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "静か",
+    "translation": "calme",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "嬢",
+    "translation": "mademoiselle / jeune fille (suff)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "向ける",
+    "translation": "diriger vers",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "心臓",
+    "translation": "coeur (organe)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "警備",
+    "translation": "sécurité / garde",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "大好き",
+    "translation": "adorer / aimer beaucoup",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "倍",
+    "translation": "fois (multiplication)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "支配",
+    "translation": "domination / contrôle",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "作品",
+    "translation": "oeuvre / travail",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "通す",
+    "translation": "passer à travers",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "物語",
+    "translation": "histoire / conte",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "全",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "複雑",
+    "translation": "complexe",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "上手い",
+    "translation": "habile / bon (taste)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "個",
+    "translation": "compteur d'objets",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "自己",
+    "translation": "soi-même",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "師",
+    "translation": "maître / professeur",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "捜す",
+    "translation": "chercher (variante)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "プログラム",
+    "translation": "programme",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ホテル",
+    "translation": "hôtel",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "器",
+    "translation": "récipient / instrument",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "マイク",
+    "translation": "microphone",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "残り",
+    "translation": "reste / reste",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ニュース",
+    "translation": "nouvelles",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ゆっくり",
+    "translation": "lentement",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "我が",
+    "translation": "notre (poétique)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "少女",
+    "translation": "jeunefille",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "担当",
+    "translation": "responsable",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "信じる",
+    "translation": "",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "襲う",
+    "translation": "attaquer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "振る",
+    "translation": "secouer / brandir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "側",
+    "translation": "côté",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "神経",
+    "translation": "nerf / nervosité",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "使用する",
+    "translation": "utiliser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "首",
+    "translation": "cou / leader",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "やっと",
+    "translation": "enfin",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "優しい",
+    "translation": "gentil / doux",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "判断",
+    "translation": "jugement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "色々",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "支援",
+    "translation": "soutien",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "急",
+    "translation": "urgent / rapide",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "有",
+    "translation": "exister / y avoir",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "向く",
+    "translation": "se tourner vers",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "氏",
+    "translation": "Monsieur / nom (form)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "そっち",
+    "translation": "là-bas / de ce côté",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "パーティー",
+    "translation": "fête / parti",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "半分",
+    "translation": "moitié",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "まさに",
+    "translation": "exactement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "試す",
+    "translation": "essayer / tester",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "馬鹿",
+    "translation": "idiot",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "当たる",
+    "translation": "frapper / gagner (lot)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "抜く",
+    "translation": "extraire / retirer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "周り",
+    "translation": "autour",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "一方",
+    "translation": "d'un côté",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "旅",
+    "translation": "voyage",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "様子",
+    "translation": "état / aspect",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "生む",
+    "translation": "produire / donner naissance",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "絵",
+    "translation": "image / peinture",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "召喚",
+    "translation": "invocation",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "すでに",
+    "translation": "déjà",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "近い",
+    "translation": "proche",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "思い",
+    "translation": "pensée / émotion",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "基本",
+    "translation": "fondamental / base",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "親父",
+    "translation": "père (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "建物",
+    "translation": "bâtiment",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "誕生",
+    "translation": "naissance",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "検査",
+    "translation": "inspection / test",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "食事",
+    "translation": "repas",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "通る",
+    "translation": "passer / traverser",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "学生",
+    "translation": "étudiant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "笑",
+    "translation": "rire / sourire",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "恐怖",
+    "translation": "peur / terreur",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "作戦",
+    "translation": "stratégie / opération",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "森",
+    "translation": "forêt",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "方向",
+    "translation": "direction",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "意見",
+    "translation": "opinion",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "下がる",
+    "translation": "baisser / reculer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "猫",
+    "translation": "chat",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "狙う",
+    "translation": "viser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "悪魔",
+    "translation": "démon",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "骨",
+    "translation": "os",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "グループ",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "教授",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "昨夜",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "プロジェクト",
+    "translation": "projet",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "暴力",
+    "translation": "violence",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "勉強する",
+    "translation": "étudier",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "世話",
+    "translation": "s'occuper / soin",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "最大",
+    "translation": "maximum",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "医",
+    "translation": "médecin (abréviation)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "市",
+    "translation": "ville / municipalité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "申す",
+    "translation": "dire (humble)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "魂",
+    "translation": "âme",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "量",
+    "translation": "quantité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "最終",
+    "translation": "final",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "集中する",
+    "translation": "se concentrer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "文化",
+    "translation": "culture",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "市民",
+    "translation": "citoyen",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ブラック",
+    "translation": "black / noir (loan)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "触る",
+    "translation": "toucher",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "同様",
+    "translation": "semblable / similaire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "触れる",
+    "translation": "toucher / évoquer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "越える",
+    "translation": "dépasser / franchir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "しかも",
+    "translation": "de plus / d'ailleurs",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "離す",
+    "translation": "séparer / lâcher",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "新た",
+    "translation": "nouveau / renouvelé",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "酒",
+    "translation": "alcool / sake",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "要",
+    "translation": "nécessaire / besoin",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "在",
+    "translation": "exister (class.)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "遅れる",
+    "translation": "être en retard",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "小",
+    "translation": "petit (kanji)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "コード",
+    "translation": "code",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "迎える",
+    "translation": "accueillir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "契約",
+    "translation": "contrat",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "局",
+    "translation": "bureau / station",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "ご覧",
+    "translation": "regarder (honorifique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "悲しい",
+    "translation": "triste",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "暮らす",
+    "translation": "vivre / résider",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "しばらく",
+    "translation": "un moment",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "動かす",
+    "translation": "bouger (trans.)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "殴る",
+    "translation": "frapper / donner un coup",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ショー",
+    "translation": "spectacle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ネット",
+    "translation": "net / internet",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "はっきり",
+    "translation": "clairement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "取れる",
+    "translation": "pouvoir être pris / être disponible",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "みな",
+    "translation": "tout le monde (oral)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "了解",
+    "translation": "compris / accord",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "箱",
+    "translation": "boîte",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "許可",
+    "translation": "permission / autorisation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "諦める",
+    "translation": "abandonner",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "一生",
+    "translation": "toute la vie",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "運命",
+    "translation": "destin",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "モデル",
+    "translation": "modèle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "容疑",
+    "translation": "soupçon / accusation",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "コーヒー",
+    "translation": "café",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "運動",
+    "translation": "exercice / mouvement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "規模",
+    "translation": "échelle / envergure",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "特定",
+    "translation": "spécifique / particulier",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "恋",
+    "translation": "amour (romantique)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "火",
+    "translation": "feu",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "眠る",
+    "translation": "dormir",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "資金",
+    "translation": "fonds / capital",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "掛ける",
+    "translation": "mettre / suspendre / parier",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "会議",
+    "translation": "réunion / conférence",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "居",
+    "translation": "être présent (class.)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "語る",
+    "translation": "raconter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "特殊",
+    "translation": "spécial / particulier",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "姉",
+    "translation": "soeur aînée",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "権利",
+    "translation": "droit",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "吹く",
+    "translation": "souffler",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "謝る",
+    "translation": "s'excuser",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "新",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "なくなる",
+    "translation": "disparaître / décéder (poli)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "何者",
+    "translation": "quelqu'un / qui (interrog)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "事務",
+    "translation": "affaires administratives",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "速い",
+    "translation": "rapide",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "正確",
+    "translation": "exact / précis",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "疑問",
+    "translation": "doute / question",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ポイント",
+    "translation": "point / score",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "歌",
+    "translation": "chanson / chanter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "物質",
+    "translation": "matière / substance",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "曲",
+    "translation": "morceau / chanson",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "手紙",
+    "translation": "lettre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "訓練",
+    "translation": "entraînement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "狂う",
+    "translation": "devenir fou",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "地獄",
+    "translation": "enfer",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "目標",
+    "translation": "objectif",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "貴様",
+    "translation": "toi (insulte)",
+    "level": 6,
+    "audioURL": ""
+  },
+  {
+    "name": "以来",
+    "translation": "depuis (ce temps)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "レッド",
+    "translation": "rouge",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "障害",
+    "translation": "obstacle / handicap",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "渡る",
+    "translation": "traverser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "今朝",
+    "translation": "ce matin",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "部下",
+    "translation": "subordonné",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "倒す",
+    "translation": "abattre / renverser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "同時",
+    "translation": "simultané",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "惑星",
+    "translation": "planète",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "調子",
+    "translation": "condition / état",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "当時",
+    "translation": "à l'époque",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ロック",
+    "translation": "rock (musique)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "沢山",
+    "translation": "beaucoup",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "届く",
+    "translation": "atteindre / être livré",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "助かる",
+    "translation": "être sauvé / utile",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "歌う",
+    "translation": "chanter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "集まる",
+    "translation": "se rassembler",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "安心",
+    "translation": "soulagement / sécurité",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "疑う",
+    "translation": "douter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "有名",
+    "translation": "célèbre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "文字",
+    "translation": "caractère / texte",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "そろそろ",
+    "translation": "bientôt / il est temps",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "鏡",
+    "translation": "miroir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "型",
+    "translation": "type / modèle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "平和",
+    "translation": "paix",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "決定",
+    "translation": "décision",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "直接",
+    "translation": "direct / directement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "巨大",
+    "translation": "énorme",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "施設",
+    "translation": "installation / établissement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "晩",
+    "translation": "soirée",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ベッド",
+    "translation": "lit",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "投げる",
+    "translation": "jeter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "いらっしゃる",
+    "translation": "venir / être (honorifique)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "いま",
+    "translation": "maintenant (variante)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "マシン",
+    "translation": "machine",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "作業",
+    "translation": "travail / tâche",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "コンピュータ",
+    "translation": "ordinateur",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "キス",
+    "translation": "baiser",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "窓",
+    "translation": "fenêtre",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "ビジネス",
+    "translation": "affaires / business",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "可愛い",
+    "translation": "mignon",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "雇う",
+    "translation": "embaucher",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ボール",
+    "translation": "",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "それぞれ",
+    "translation": "chacun / respectivement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "飛ばす",
+    "translation": "faire voler / lancer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "発動",
+    "translation": "activation / déclenchement",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "異なる",
+    "translation": "différent",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "電気",
+    "translation": "électricité",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "追跡する",
+    "translation": "poursuivre / suivre",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "ミス",
+    "translation": "erreur / faute",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "外す",
+    "translation": "enlever / ôter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "将来",
+    "translation": "avenir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "万",
+    "translation": "dix mille / beaucoup",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "鳥",
+    "translation": "oiseau",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "通信",
+    "translation": "communication / transmission",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "病",
+    "translation": "maladie (rare)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "依頼",
+    "translation": "demande / requête",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "右",
+    "translation": "droite",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "胸",
+    "translation": "poitrine / coeur (fig)",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "兵士",
+    "translation": "soldat",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "進化",
+    "translation": "évolution / évolution biologiq",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "副",
+    "translation": "vice- / auxiliaire",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "他人",
+    "translation": "autre personne",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ルール",
+    "translation": "règle",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "繰る",
+    "translation": "répéter / tourner (pages)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "世紀",
+    "translation": "siècle",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "事態",
+    "translation": "situation grave",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "左",
+    "translation": "gauche",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "壊す",
+    "translation": "casser / détruire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "投資",
+    "translation": "investissement",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "チェックする",
+    "translation": "vérifier",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "詳しい",
+    "translation": "détaillé / bien informé",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "化学",
+    "translation": "chimie",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "手段",
+    "translation": "moyen / méthode",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "辞める",
+    "translation": "quitter / démissionner",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "穴",
+    "translation": "trou",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "自ら",
+    "translation": "soi-même (formel)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "一般",
+    "translation": "général",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "位置",
+    "translation": "position",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "避ける",
+    "translation": "éviter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "苦労する",
+    "translation": "avoir des difficultés",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "紙",
+    "translation": "papier",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "扱う",
+    "translation": "manier / traiter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "旅行",
+    "translation": "voyage",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "解放する",
+    "translation": "libérer",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "リーダー",
+    "translation": "leader / chef",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "正義",
+    "translation": "justice",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "到着する",
+    "translation": "arriver",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "地下",
+    "translation": "souterrain / sous-sol",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "あるいは",
+    "translation": "ou bien",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "足りる",
+    "translation": "suffire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "単純",
+    "translation": "simple",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "相談",
+    "translation": "consultation / discuter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "平気",
+    "translation": "ne pas s'inquiéter / ça va",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "指示",
+    "translation": "instruction / directive",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "侵入",
+    "translation": "intrusion",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "吸う",
+    "translation": "aspirer / fumer",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "スピード",
+    "translation": "vitesse",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "トラック",
+    "translation": "camion / piste",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "巻く",
+    "translation": "enrouler",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "危ない",
+    "translation": "dangereux",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "市場",
+    "translation": "marché",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "替える",
+    "translation": "remplacer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "緊急",
+    "translation": "urgent",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "もたらす",
+    "translation": "apporter / causer",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "裏",
+    "translation": "verso / arrière",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "加える",
+    "translation": "ajouter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "隣",
+    "translation": "voisin / à côté",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "記事",
+    "translation": "article (journal)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "永遠",
+    "translation": "éternité",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "信号",
+    "translation": "signal / feu (trafic)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "知識",
+    "translation": "connaissance",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "行為",
+    "translation": "acte / action",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "弱い",
+    "translation": "faible",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "くせ",
+    "translation": "habitude / tic",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "新聞",
+    "translation": "journal / quotidien",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "種類",
+    "translation": "type / variété",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "実行",
+    "translation": "exécution / implémentation",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "オフィス",
+    "translation": "bureau",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "頂く",
+    "translation": "recevoir (humble)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "南",
+    "translation": "sud",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "クラブ",
+    "translation": "club",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "主",
+    "translation": "maître / principal",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "裏切る",
+    "translation": "trahir",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "開始",
+    "translation": "commencement",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "髪",
+    "translation": "cheveux",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "放す",
+    "translation": "laisser aller / libérer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "行方",
+    "translation": "parcours / lieu où se trouve quelqu'un",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "会話",
+    "translation": "conversation",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "掃除",
+    "translation": "nettoyage",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "術",
+    "translation": "technique / art",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "国家",
+    "translation": "nation / état",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "壊れる",
+    "translation": "se briser / se casser (intr.)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "知れる",
+    "translation": "être connu",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "増える",
+    "translation": "augmenter",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "面倒",
+    "translation": "tracas / ennui",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "死亡",
+    "translation": "décès",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "つながる",
+    "translation": "être connecté / lié",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "証言",
+    "translation": "témoignage",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "偶然",
+    "translation": "par hasard",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "途中",
+    "translation": "en chemin",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "発生する",
+    "translation": "survenir / se produire",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "不思議",
+    "translation": "mystérieux / merveilleux",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "疲れる",
+    "translation": "être fatigué",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "デート",
+    "translation": "rendez-vous / date",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ファイル",
+    "translation": "fichier",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "界",
+    "translation": "monde / domaine (suffix)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "進める",
+    "translation": "promouvoir / faire avancer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "教師",
+    "translation": "enseignant / professeur",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ようこそ",
+    "translation": "bienvenu",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "高",
+    "translation": "haut / élevé",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "誘う",
+    "translation": "inviter",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "破る",
+    "translation": "rompre / violer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "噂",
+    "translation": "rumeur",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "回す",
+    "translation": "faire tourner / passer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "茶",
+    "translation": "thé",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "馬",
+    "translation": "cheval",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "寒い",
+    "translation": "froid",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "分析",
+    "translation": "analyse",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "魚",
+    "translation": "poisson",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ナイフ",
+    "translation": "couteau",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "尋ねる",
+    "translation": "demander / interroger",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "天",
+    "translation": "ciel / paradis (archaic)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "内容",
+    "translation": "contenu",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "中心",
+    "translation": "centre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "段階",
+    "translation": "étape / phase",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "育てる",
+    "translation": "élever / éduquer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "身体",
+    "translation": "corps physique",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "不安",
+    "translation": "inquiétude / anxiété",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "姉ちゃん",
+    "translation": "grande soeur (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "卒業",
+    "translation": "graduation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "距離",
+    "translation": "distance",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "当てる",
+    "translation": "viser / deviner",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "スター",
+    "translation": "star / célébrité",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "授業",
+    "translation": "leçon / cours",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "医師",
+    "translation": "médecin",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "夕食",
+    "translation": "dîner",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "一致する",
+    "translation": "coïncider / correspondre",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "目撃",
+    "translation": "témoignage (voir)",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "既に",
+    "translation": "déjà",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "芸術",
+    "translation": "art",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "構造",
+    "translation": "structure",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "流す",
+    "translation": "laisser couler / déverser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "苦しむ",
+    "translation": "souffrir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "ほんの",
+    "translation": "seulement / à peine",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "ほか",
+    "translation": "autre",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "異常",
+    "translation": "anormalité",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "練習",
+    "translation": "pratique / entraînement",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "インターネット",
+    "translation": "internet",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "スーツ",
+    "translation": "costume",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "無し",
+    "translation": "sans",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "評価",
+    "translation": "évaluation",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "撮影する",
+    "translation": "filmer / photographier",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "テクノロジー",
+    "translation": "technologie",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "もしもし",
+    "translation": "allô (téléphone)",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "ネットワーク",
+    "translation": "réseau / network",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "切れる",
+    "translation": "se casser / s'arrêter (fonction)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "赤い",
+    "translation": "rouge",
+    "level": 1,
+    "audioURL": ""
+  },
+  {
+    "name": "かつて",
+    "translation": "jadis / autrefois",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "最低",
+    "translation": "le plus bas / pire",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "幸運",
+    "translation": "bonne chance",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "抱く",
+    "translation": "tenir / câliner / embrasser",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "望み",
+    "translation": "espérance / espoir",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "予想",
+    "translation": "prévision / attente",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "殿",
+    "translation": "monsieur / seigneur (honorific old)",
+    "level": 5,
+    "audioURL": ""
+  },
+  {
+    "name": "再び",
+    "translation": "à nouveau",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "兄ちゃん",
+    "translation": "grand frère (familier)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "処理",
+    "translation": "traitement / gestion",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "程度",
+    "translation": "degré / niveau",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "マーク",
+    "translation": "marque",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "値",
+    "translation": "valeur / prix",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "けれど",
+    "translation": "mais / cependant",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "サービス",
+    "translation": "service",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "うるさい",
+    "translation": "bruyant / pénible",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "奇妙",
+    "translation": "étrange",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "恐ろしい",
+    "translation": "terrifiant",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "工場",
+    "translation": "usine",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "知り合い",
+    "translation": "connaissance (personne)",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "利益",
+    "translation": "profit / intérêt",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "クラス",
+    "translation": "classe",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "育つ",
+    "translation": "grandir",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "慣れる",
+    "translation": "s'habituer",
+    "level": 3,
+    "audioURL": ""
+  },
+  {
+    "name": "実現する",
+    "translation": "réaliser / accomplir",
+    "level": 4,
+    "audioURL": ""
+  },
+  {
+    "name": "疲れ",
+    "translation": "fatigue",
+    "level": 2,
+    "audioURL": ""
+  },
+  {
+    "name": "時々",
+    "translation": "parfois",
+    "level": 1,
+    "audioURL": ""
+  }
+]
