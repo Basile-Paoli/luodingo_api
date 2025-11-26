@@ -15,6 +15,14 @@ version = "0.0.1"
 application {
     mainClass = "io.ktor.server.netty.EngineMain"
 }
+kotlin {
+    jvmToolchain(24)
+}
+java {
+    toolchain {
+        languageVersion.set(JavaLanguageVersion.of(24))
+    }
+}
 
 dependencies {
     implementation("io.ktor:ktor-server-cors")
