@@ -4,6 +4,7 @@ import com.auth0.jwt.JWT
 import com.auth0.jwt.algorithms.Algorithm
 import fr.ludodingo.service.AuthService
 import fr.ludodingo.service.Credentials
+import fr.ludodingo.service.RegisterRequest
 import fr.ludodingo.service.env
 import io.ktor.http.HttpStatusCode
 import io.ktor.server.application.Application
@@ -22,18 +23,18 @@ fun Application.auth() {
     val jwtSecret = env.get("JWT_SECRET")
     authentication {
         jwt {
-            verifier(JWT.require(Algorithm.HMAC256(jwtSecret)).withIssuer(issuer).withClaimPresence("id").build())
-            validate {
-                JWTPrincipal(it.payload)
-            }
+            verifier(
+                    JWT.require(Algorithm.HMAC256(jwtSecret))
+                            .withIssuer(issuer)
+                            .withClaimPresence("id")
+                            .build()
+            )
+            validate { JWTPrincipal(it.payload) }
 
-            challenge { _, _ ->
-                call.respond(HttpStatusCode.Unauthorized, "Unauthorized")
-            }
+            challenge { _, _ -> call.respond(HttpStatusCode.Unauthorized, "Unauthorized") }
         }
     }
 }
-
 
 fun Application.authRoutes(db: Database) {
     val authService = AuthService(db)
@@ -46,17 +47,19 @@ fun Application.authRoutes(db: Database) {
                 return@post
             }
 
-            val token = JWT.create()
-                .withIssuer(env.get("JWT_ISSUER"))
-                .withClaim("id", userId)
-                .sign(Algorithm.HMAC256(env.get("JWT_SECRET")))
+            val token =
+                    JWT.create()
+                            .withIssuer(env.get("JWT_ISSUER"))
+                            .withClaim("id", userId)
+                            .withClaim("username", credentials.username)
+                            .sign(Algorithm.HMAC256(env.get("JWT_SECRET")))
 
             call.respond(mapOf("token" to token))
         }
 
         post("/register") {
-            val credentials = call.receive<Credentials>()
-            authService.register(credentials).onFailure { error ->
+            val request = call.receive<RegisterRequest>()
+            authService.register(request).onFailure { error ->
                 call.respond(error.httpStatus, mapOf("error" to error.message))
                 return@post
             }
@@ -67,7 +70,8 @@ fun Application.authRoutes(db: Database) {
 }
 
 fun RoutingContext.getUserId(): Int {
-    val principal = call.authentication.principal<JWTPrincipal>()
-        ?: throw IllegalStateException("No JWT principal found")
+    val principal =
+            call.authentication.principal<JWTPrincipal>()
+                    ?: throw IllegalStateException("No JWT principal found")
     return principal.getClaim("id", Int::class)!!
 }
