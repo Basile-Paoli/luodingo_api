@@ -76,12 +76,12 @@ class CourseRepository(val db: Database) {
             it[lesson] = l1
             it[type] = "SPEAKING"
             it[instruction] = "Prononcez le mot suivant"
-            it[statement] = "Good morning."
+            it[statement] = "Good morning"
             it[options] =
                 Json.encodeToString(
                     listOf<String>()
                 )
-            it[correctAnswer] = "Good morning."
+            it[correctAnswer] = "Good morning"
             it[order] = 1
         }
         QuestionsTable.insert {
@@ -153,13 +153,22 @@ class CourseRepository(val db: Database) {
             it[order] = 1
         }
         QuestionsTable.insert {
+            it[type] = "SPEAKING"
+            it[lesson] = l2
+            it[instruction] = "Prononcez la phrase suivante"
+            it[statement] = "I like bread."
+            it[options] = Json.encodeToString(listOf<String>())
+            it[correctAnswer] = "I like bread"
+            it[order] = 2
+        }
+        QuestionsTable.insert {
             it[lesson] = l2
             it[type] = "MULTIPLE_CHOICE"
             it[instruction] = "Que buvez-vous le matin ?"
             it[statement] = "Coffee"
             it[options] = Json.encodeToString(listOf("Coffee", "Bread", "Cheese", "Meat"))
             it[correctAnswer] = "Coffee"
-            it[order] = 2
+            it[order] = 3
         }
         QuestionsTable.insert {
             it[lesson] = l2
@@ -168,7 +177,7 @@ class CourseRepository(val db: Database) {
             it[statement] = "She ____ water."
             it[options] = "[]"
             it[correctAnswer] = "drinks"
-            it[order] = 3
+            it[order] = 4
         }
         QuestionsTable.insert {
             it[lesson] = l2
@@ -180,7 +189,7 @@ class CourseRepository(val db: Database) {
                     listOf("Le", "pain", "est", "bon", "mauvais", "lait", "sel")
                 )
             it[correctAnswer] = "Le pain est bon"
-            it[order] = 4
+            it[order] = 5
         }
 
         // Lesson 3: Animals
@@ -221,6 +230,15 @@ class CourseRepository(val db: Database) {
             it[options] = Json.encodeToString(listOf("Vrai", "Faux"))
             it[correctAnswer] = "Vrai"
             it[order] = 3
+        }
+        QuestionsTable.insert {
+            it[lesson] = l3
+            it[type] = "SPEAKING"
+            it[instruction] = "Prononcez le mot suivant"
+            it[statement] = "Elephant"
+            it[options] = Json.encodeToString(listOf<String>())
+            it[correctAnswer] = "Elephant"
+            it[order] = 4
         }
 
         // --- ENGLISH INTERMEDIATE ---
@@ -376,6 +394,16 @@ class CourseRepository(val db: Database) {
             it[options] = Json.encodeToString(listOf("Best regards", "Love you", "See ya", "Bye"))
             it[correctAnswer] = "Best regards"
             it[order] = 3
+        }
+
+        QuestionsTable.insert {
+            it[lesson] = l6
+            it[type] = "SPEAKING"
+            it[instruction] = "Pronounce the following phrase"
+            it[statement] = "Looking forward to our collaboration."
+            it[options] = Json.encodeToString(listOf<String>())
+            it[correctAnswer] = "Looking forward to our collaboration"
+            it[order] = 4
         }
 
         // --- PLACEMENT TEST ---
