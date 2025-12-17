@@ -1,10 +1,24 @@
-FROM gradle:8-jdk17 AS build
+# Stage 1: Cache Gradle dependencies
+FROM gradle:8.14.3-jdk24-graal AS cache
+RUN mkdir -p /home/gradle/cache_home
+ENV GRADLE_USER_HOME=/home/gradle/cache_home
+COPY build.gradle.* gradle.properties /home/gradle/app/
+COPY gradle /home/gradle/app/gradle
+WORKDIR /home/gradle/app
+RUN gradle dependencies --no-daemon
+
+# Stage 2: Build Application
+FROM gradle:8.14.3-jdk24-graal AS build
+COPY --from=cache /home/gradle/cache_home /home/gradle/.gradle
 COPY --chown=gradle:gradle . /home/gradle/src
 WORKDIR /home/gradle/src
-RUN gradle build -x test --no-daemon
+# Build the fat JAR, Gradle also supports shadow
+# and boot JAR by default.
+RUN gradle buildFatJar --no-daemon
 
-FROM eclipse-temurin:17-jre
-EXPOSE 8080:8080
+# Stage 3: Create the Runtime Image
+FROM amazoncorretto:25 AS runtime
+EXPOSE 8080
 RUN mkdir /app
-COPY --from=build /home/gradle/src/build/libs/*-all.jar /app/luodingo-api.jar
-ENTRYPOINT ["java","-jar","/app/luodingo-api.jar"]
+COPY --from=build /home/gradle/src/build/libs/*.jar /app/ktor-docker-sample.jar
+ENTRYPOINT ["java","-jar","/app/ktor-docker-sample.jar"]
