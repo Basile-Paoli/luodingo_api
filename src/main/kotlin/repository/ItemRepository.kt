@@ -57,8 +57,6 @@ class ItemRepository(val db: Database) {
 
 
     private fun seedData() {
-
-
         transaction(db = db) {
             if (ItemsTable.selectAll().empty().not()) {
                 return@transaction
