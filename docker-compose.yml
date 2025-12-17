@@ -9,6 +9,20 @@ services:
       - "5432:5432"
     volumes:
       - db_data:/var/lib/postgresql/data
+  api:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      DB_URL: jdbc:postgresql://db:5432/mydatabase
+      DB_USER: ${DB_USER:-user}
+      DB_PASSWORD: ${DB_PASSWORD:-password}
+      JWT_SECRET: ${JWT_SECRET:-your_jwt_secret_here}
+      JWT_ISSUER: ${JWT_ISSUER:-your_jwt_issuer_here}
+      PASSWORD_SALT: ${PASSWORD_SALT:-your_password_salt_here}
+    depends_on:
+      - db
 volumes:
   db_data:
+
 

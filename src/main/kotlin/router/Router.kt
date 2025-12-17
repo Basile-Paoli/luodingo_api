@@ -8,7 +8,6 @@ import io.ktor.server.routing.get
 import io.ktor.server.routing.routing
 import org.jetbrains.exposed.sql.Database
 
-
 fun Application.router(db: Database) {
     cors()
     auth()
@@ -16,11 +15,13 @@ fun Application.router(db: Database) {
     authRoutes(db)
 
     routing {
+        get("/") { call.respond(HttpStatusCode.OK, mapOf("message" to "Hello World!")) }
+
         authenticate {
-            get("/") {
-                call.respond(HttpStatusCode.OK, mapOf("message" to "Hello World!"))
-            }
             itemsRouter(db)
+            usersRoutes(db)
         }
+        // Public routes (or handle auth inside)
+        coursesRoutes(db)
     }
 }
